@@ -36,6 +36,7 @@ module.exports = function(config) {
     babelPreprocessor: {
       options: {
         presets: ['env'],
+        plugins: ['transform-object-rest-spread'],
         sourceMap: 'inline'
       },
       sourceFileName: function (file) {
