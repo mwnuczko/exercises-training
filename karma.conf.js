@@ -13,6 +13,7 @@ module.exports = function(config) {
 
     // list of files / patterns to load in the browser
     files: [
+      'node_modules/redux/dist/redux.js',
       'node_modules/lodash/lodash.min.js',
       'node_modules/babel-polyfill/dist/polyfill.js',
       'data/data.js',
