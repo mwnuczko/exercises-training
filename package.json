@@ -22,5 +22,8 @@
     "karma-spec-reporter": "0.0.31",
     "lodash": "^4.17.4",
     "redux": "^3.7.2"
+  },
+  "dependencies": {
+    "redux-thunk": "^2.2.0"
   }
 }

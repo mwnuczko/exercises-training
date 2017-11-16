@@ -10,6 +10,10 @@ const API = (function(){
     }
 
   return {
+    // getTodoById(id): thenable
+    getTodoById: wrapWithPromise(db.getTodoById),
+    // getTodos(id): thenable
+    getTodos: wrapWithPromise(db.getTodos),
     // getEmployee(id): thenable
     getEmployee: wrapWithPromise(db.getEmployeeById),
     // getEmployeesByNationality(nationality): thenable
