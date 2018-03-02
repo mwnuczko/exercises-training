@@ -7,23 +7,27 @@
     "api": "hs data"
   },
   "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-istanbul": "^4.1.4",
+    "babel-plugin-transform-async-to-generator": "^6.24.1",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-polyfill": "^6.26.0",
     "babel-preset-env": "^1.6.1",
-    "http-server": "^0.10.0",
     "jasmine-core": "^2.8.0",
     "karma": "^1.7.1",
     "karma-babel-preprocessor": "^6.0.1",
     "karma-chrome-launcher": "^2.2.0",
-    "karma-es6-shim": "^1.0.0",
-    "karma-firefox-launcher": "^1.0.1",
+    "karma-firefox-launcher": "^1.1.0",
     "karma-ie-launcher": "^1.0.0",
-    "karma-jasmine": "^1.1.0",
-    "karma-spec-reporter": "0.0.31",
-    "lodash": "^4.17.4",
-    "redux": "^3.7.2"
-  },
-  "dependencies": {
-    "redux-thunk": "^2.2.0"
+    "karma-jasmine": "^1.1.1",
+    "karma-sourcemap-loader": "^0.3.7",
+    "karma-spec-reporter": "^0.0.32",
+    "karma-webpack": "^2.0.13",
+    "lodash": "^4.17.5",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0",
+    "reselect": "^3.0.1",
+    "webpack": "^2.6.1"
   }
 }

@@ -1,8 +1,12 @@
 <html>
 	<head>
-		<script type="text/javascript" src="data.js"></script>
-		<script type="text/javascript" src="async.js"></script>
-		<script type="text/javascript" src="api.js"></script>
+		<!-- ES6 modules in the browser: https://jakearchibald.com/2017/es-modules-in-browsers/ -->
+		<script type="module">
+			import { async } from './async.js';
+			import API from './api.js';
+			window.API = API;
+			window.async = async;
+		</script>
 	</head>
 	<body>
 		<h3>1. Open devtools console</h3>

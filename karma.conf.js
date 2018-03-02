@@ -1,3 +1,18 @@
+const path = require('path');
+
+const webpackConfig = {
+  devtool: 'inline-source-map',
+  module: {
+    loaders: [
+      {
+        test: /\.js$/,
+        loader: 'babel-loader',
+        exclude: path.resolve(__dirname, 'node_modules')
+      }
+    ]
+  }
+};
+
 module.exports = function(config) {
   config.set({
 
@@ -7,43 +22,24 @@ module.exports = function(config) {
     // frameworks to use
     // available frameworks: https://npmjs.org/browse/keyword/karma-adapter
     frameworks: [
-      'jasmine',
-      'es6-shim'
+      'jasmine'
     ],
 
     // list of files / patterns to load in the browser
     files: [
-      'node_modules/redux/dist/redux.js',
-      'node_modules/redux-thunk/dist/redux-thunk.js',
-      'node_modules/lodash/lodash.min.js',
       'node_modules/babel-polyfill/dist/polyfill.js',
-      'data/data.js',
-      'data/data-alt.js',
-      'data/async.js',
-      'data/api.js',
-      'src/**/*.js'
+      'src/root.js'
     ],
 
     // list of files to exclude
     exclude: [
     ],
 
-    // preprocess matching files before serving them to the browser
-    // available preprocessors: https://npmjs.org/browse/keyword/karma-preprocessor
     preprocessors: {
-      'data/**/*.js': ['babel'],
-      'src/**/*.js': ['babel']
+      'src/root.js': ['webpack', 'sourcemap']
     },
-    babelPreprocessor: {
-      options: {
-        presets: ['env'],
-        plugins: ['transform-object-rest-spread'],
-        sourceMap: 'inline'
-      },
-      sourceFileName: function (file) {
-        return file.originalPath;
-      }
-    },
+
+    webpack: webpackConfig,
 
     // test results reporter to use
     // possible values: 'dots', 'progress'
@@ -54,7 +50,12 @@ module.exports = function(config) {
     // uncomment the following, not print information about skipped tests:
     //
     // specReporter: {
-    //   suppressSkipped: true,
+    //   maxLogLines: 5,  // limit number of lines logged per test 
+    //   suppressErrorSummary: false,  // do not print error summary 
+    //   suppressFailed: false,  // do not print information about failed tests 
+    //   suppressPassed: true,  // do not print information about passed tests 
+    //   suppressSkipped: true,  // do not print information about skipped tests 
+    //   showSpecTiming: false  // print the time elapsed for each spec 
     // },
 
     // web server port
@@ -69,6 +70,11 @@ module.exports = function(config) {
 
     // enable / disable watching file and executing tests whenever any file changes
     autoWatch: true,
+
+    browserConsoleLogOptions: {
+      level: 'log',
+      terminal: true
+    },
 
     // (!) IMPORTANT
     // start these browsers
@@ -86,7 +92,6 @@ module.exports = function(config) {
     // 1. uncomment PhantomJS above
     // 2. add following dependencies to package.json and make sure you install them:
     // "karma-phantomjs-launcher": "^1.0.4",
-    // "phantomjs-prebuilt": "^2.1.15"
     //==========================================
 
     // Continuous Integration mode

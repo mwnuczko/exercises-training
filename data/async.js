@@ -1,5 +1,5 @@
 // creates coroutines
-function async(makeGenerator) {
+export function async(makeGenerator) {
 	return function () {
 		var generator = makeGenerator.apply(this, arguments);
 
