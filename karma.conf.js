@@ -2,20 +2,29 @@ const path = require('path');
 
 const webpackConfig = {
   devtool: 'inline-source-map',
+  resolve: {
+    // Add `.ts` and `.tsx` as a resolvable extension.
+    extensions: [".ts", ".tsx", ".js"]
+  },
   module: {
     loaders: [
       {
         test: /\.js$/,
         loader: 'babel-loader',
         exclude: path.resolve(__dirname, 'node_modules')
-      }
+      },
+      {
+        test: /\.tsx?$/,
+        loader: 'ts-loader',
+        exclude: path.resolve(__dirname, 'node_modules'),
+      },
+      { enforce: "pre", test: /\.(js|ts)$/, loader: "source-map-loader" }
     ]
   }
 };
 
 module.exports = function(config) {
   config.set({
-
     // base path that will be used to resolve all patterns (eg. files, exclude)
     basePath: '',
 
@@ -24,6 +33,10 @@ module.exports = function(config) {
     frameworks: [
       'jasmine'
     ],
+
+    mime: {
+      'text/x-typescript': ['ts','tsx']
+    },
 
     // list of files / patterns to load in the browser
     files: [
@@ -50,7 +63,6 @@ module.exports = function(config) {
     // uncomment the following, not print information about skipped tests:
     //
     // specReporter: {
-    //   maxLogLines: 5,  // limit number of lines logged per test 
     //   suppressErrorSummary: false,  // do not print error summary 
     //   suppressFailed: false,  // do not print information about failed tests 
     //   suppressPassed: true,  // do not print information about passed tests 

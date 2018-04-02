@@ -14,6 +14,10 @@ export default {
     getTodoById: wrapWithPromise(db.getTodoById),
     // getTodos(id): thenable
     getTodos: wrapWithPromise(db.getTodos),
+    // getProjectById(id): thenable
+    getProjectById: wrapWithPromise(db.getProjectById),
+    // getProjects(id): thenable
+    getProjects: wrapWithPromise(db.getProjects),
     // getEmployee(id): thenable
     getEmployee: wrapWithPromise(db.getEmployeeById),
     // getEmployeesByNationality(nationality): thenable

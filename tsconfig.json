@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "preserveConstEnums": true,
+    "removeComments": false,
+    "moduleResolution": "node",
+    "target": "ES6",
+    "lib": ["es2018"],
+    "sourceMap": true
+  }
+}
