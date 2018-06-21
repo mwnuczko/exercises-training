@@ -10,18 +10,24 @@ const wrapWithPromise = fn =>
     }
 
 export default {
-    // getTodoById(id): thenable
-    getTodoById: wrapWithPromise(db.getTodoById),
-    // getTodos(id): thenable
-    getTodos: wrapWithPromise(db.getTodos),
-    // getProjectById(id): thenable
-    getProjectById: wrapWithPromise(db.getProjectById),
-    // getProjects(id): thenable
-    getProjects: wrapWithPromise(db.getProjects),
-    // getEmployee(id): thenable
     getEmployee: wrapWithPromise(db.getEmployeeById),
-    // getEmployeesByNationality(nationality): thenable
     getEmployeesByNationality: wrapWithPromise(db.getEmployeesByNationality),
-    // getNationalities(): thenable
+	getEmployeesByDepartment: wrapWithPromise(db.getEmployeesByDepartment),
+	getEmployeesByOffice: wrapWithPromise(db.getEmployeesByOffice),
+
+	getDepartments: wrapWithPromise(db.getDepartments),
+	getGeo: wrapWithPromise(db.getGeo),
     getNationalities: wrapWithPromise(db.getNationalities),
+	getOffices: wrapWithPromise(db.getOffices),
+
+    getProjectById: wrapWithPromise(db.getProjectById),
+    getProjects: wrapWithPromise(db.getProjects),
+
+	getTransactionById: wrapWithPromise(db.getTransactionById),
+	getTransactions: wrapWithPromise(db.getAllTransactions),
+	submitTransaction: wrapWithPromise(db.submitTransaction),
+	clearTransactions: wrapWithPromise(db.clearTransactions),
+
+    getTodoById: wrapWithPromise(db.getTodoById),
+    getTodos: wrapWithPromise(db.getTodos),
 }

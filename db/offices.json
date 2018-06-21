@@ -1,0 +1,282 @@
+[
+  {
+    "country": "Italy",
+    "city": "Torino",
+    "address": "Marini Borgo 151",
+    "estate": {
+      "owner": "bleeding-edge Estates Inc",
+      "phone": "368 142 611",
+      "monthlyRental": 15000
+    }
+  },
+  {
+    "country": "Poland",
+    "city": "Warszawa",
+    "address": "Al. Orestes Manor 130",
+    "estate": {
+      "owner": "end-to-end Estates and Sons",
+      "phone": "76-747-50-78",
+      "monthlyRental": 11000
+    }
+  },
+  {
+    "country": "Germany",
+    "city": "Frankfurt am Main",
+    "address": "Madeleine Viaduct 138",
+    "estate": {
+      "owner": "wireless Estates Group",
+      "phone": "(0784) 722411467",
+      "monthlyRental": 19000
+    }
+  },
+  {
+    "country": "United States of America",
+    "city": "Dallas",
+    "address": "Jazlyn Gardens 197",
+    "estate": {
+      "owner": "holistic Estates Group",
+      "phone": "931-169-7075 x11129",
+      "monthlyRental": 34000
+    }
+  },
+  {
+    "country": "France",
+    "city": "Brest",
+    "address": "Noa Saint-Jacques 37",
+    "estate": {
+      "owner": "leading-edge Estates and Sons",
+      "phone": "0375434924",
+      "monthlyRental": 11000
+    }
+  },
+  {
+    "country": "France",
+    "city": "Paris",
+    "address": "Nicolas Joubert 185",
+    "estate": {
+      "owner": "robust Estates LLC",
+      "phone": "+33 431386166",
+      "monthlyRental": 18000
+    }
+  },
+  {
+    "country": "United Kingdom",
+    "city": "Plymouth",
+    "address": "Cummerata Landing 169",
+    "estate": {
+      "owner": "integrated Estates LLC",
+      "phone": "015309 09707",
+      "monthlyRental": 16000
+    }
+  },
+  {
+    "country": "Spain",
+    "city": "Madrid",
+    "address": "Roldán Camino 147",
+    "estate": {
+      "owner": "bleeding-edge Estates LLC",
+      "phone": "960 984 863",
+      "monthlyRental": 11000
+    }
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "address": "Emelia Plaza 70",
+    "estate": {
+      "owner": "enterprise Estates and Sons",
+      "phone": "0117 008 5191",
+      "monthlyRental": 53000
+    }
+  },
+  {
+    "country": "United Kingdom",
+    "city": "Bracknell",
+    "address": "Nikolaus Rue 42",
+    "estate": {
+      "owner": "best-of-breed Estates Inc",
+      "phone": "0924 810 4060",
+      "monthlyRental": 26000
+    }
+  },
+  {
+    "country": "Spain",
+    "city": "Granada",
+    "address": "Sergio Bloque 72",
+    "estate": {
+      "owner": "rich Estates Group",
+      "phone": "919.969.442",
+      "monthlyRental": 6000
+    }
+  },
+  {
+    "country": "Poland",
+    "city": "Radom",
+    "address": "Al. Erast Wells 33",
+    "estate": {
+      "owner": "scalable Estates LLC",
+      "phone": "55-307-26-28",
+      "monthlyRental": 6000
+    }
+  },
+  {
+    "country": "United Kingdom",
+    "city": "Reading",
+    "address": "Lionel Ford 159",
+    "estate": {
+      "owner": "world-class Estates Inc",
+      "phone": "0500 550507",
+      "monthlyRental": 23000
+    }
+  },
+  {
+    "country": "France",
+    "city": "Rennes",
+    "address": "Sacha Laffitte 39",
+    "estate": {
+      "owner": "world-class Estates LLC",
+      "phone": "0370364123",
+      "monthlyRental": 14000
+    }
+  },
+  {
+    "country": "Netherlands",
+    "city": "Den Haag",
+    "address": "Visser plantsoen 79",
+    "estate": {
+      "owner": "efficient Estates LLC",
+      "phone": "0684552686",
+      "monthlyRental": 13000
+    }
+  },
+  {
+    "country": "Poland",
+    "city": "Łódź",
+    "address": "ul. Kosiński Mews 1",
+    "estate": {
+      "owner": "B2B Estates LLC",
+      "phone": "43-582-42-85",
+      "monthlyRental": 20000
+    }
+  },
+  {
+    "country": "Poland",
+    "city": "Wrocław",
+    "address": "ul. Przybysz Creek 71",
+    "estate": {
+      "owner": "frictionless Estates LLC",
+      "phone": "43-591-70-09",
+      "monthlyRental": 13000
+    }
+  },
+  {
+    "country": "Netherlands",
+    "city": "Utrecht",
+    "address": "Bakker straat 61",
+    "estate": {
+      "owner": "dot-com Estates LLC",
+      "phone": "2555252860",
+      "monthlyRental": 19000
+    }
+  },
+  {
+    "country": "Poland",
+    "city": "Lublin",
+    "address": "ul. Janusz Groves 193",
+    "estate": {
+      "owner": "out-of-the-box Estates and Sons",
+      "phone": "32-523-36-76",
+      "monthlyRental": 17000
+    }
+  },
+  {
+    "country": "Poland",
+    "city": "Gdańsk",
+    "address": "ul. Prus Land 62",
+    "estate": {
+      "owner": "user-centric Estates Group",
+      "phone": "54-599-64-97",
+      "monthlyRental": 9000
+    }
+  },
+  {
+    "country": "Germany",
+    "city": "Darmstadt",
+    "address": "Abicht Street 196",
+    "estate": {
+      "owner": "visionary Estates and Sons",
+      "phone": "+49-156-3494533",
+      "monthlyRental": 20000
+    }
+  },
+  {
+    "country": "United Kingdom",
+    "city": "Manchester",
+    "address": "Kailee Knolls 46",
+    "estate": {
+      "owner": "B2B Estates Group",
+      "phone": "0800 043 8564",
+      "monthlyRental": 18000
+    }
+  },
+  {
+    "country": "France",
+    "city": "Lille",
+    "address": "Blanchard Lepic 10",
+    "estate": {
+      "owner": "viral Estates Group",
+      "phone": "+33 433348418",
+      "monthlyRental": 11000
+    }
+  },
+  {
+    "country": "Netherlands",
+    "city": "Amsterdam",
+    "address": "Emma laan 81",
+    "estate": {
+      "owner": "B2C Estates and Sons",
+      "phone": "(7364) 079343",
+      "monthlyRental": 10000
+    }
+  },
+  {
+    "country": "Germany",
+    "city": "München",
+    "address": "Lorenz Courts 0",
+    "estate": {
+      "owner": "innovative Estates Inc",
+      "phone": "+49-4004-85895958",
+      "monthlyRental": 46000
+    }
+  },
+  {
+    "country": "United States of America",
+    "city": "Milpitas",
+    "address": "Destinee Passage 142",
+    "estate": {
+      "owner": "transparent Estates LLC",
+      "phone": "993.015.3348",
+      "monthlyRental": 18000
+    }
+  },
+  {
+    "country": "United States of America",
+    "city": "San Francisco",
+    "address": "Lind Ramp 75",
+    "estate": {
+      "owner": "real-time Estates LLC",
+      "phone": "1-896-167-1555",
+      "monthlyRental": 17000
+    }
+  },
+  {
+    "country": "Italy",
+    "city": "Roma",
+    "address": "Vinicio Rotonda 55",
+    "estate": {
+      "owner": "viral Estates LLC",
+      "phone": "+54 420 1229750",
+      "monthlyRental": 10000
+    }
+  }
+]

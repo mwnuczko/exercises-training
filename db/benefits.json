@@ -1,0 +1,5834 @@
+[
+  {
+    "id": "4c4863a716314d40",
+    "beneficiary": {
+      "name": "Mona Deuschle",
+      "email": "Mona_Deuschle90@softix.de"
+    },
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2018-05-01"
+  },
+  {
+    "id": "60965cfccf2844a6",
+    "beneficiary": {
+      "name": "Eva Koster",
+      "email": "evko@softix.nl"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2016-01-01"
+  },
+  {
+    "id": "9dbee8c693364257",
+    "beneficiary": {
+      "name": "Iris Groot",
+      "email": "irgr@softix.nl"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-10-01"
+  },
+  {
+    "id": "866d5ad4743149d6",
+    "beneficiary": {
+      "name": "Anne Vries",
+      "email": "anvr@softix.nl"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-12-01"
+  },
+  {
+    "id": "847054d343954856",
+    "beneficiary": {
+      "name": "Lisa Smits",
+      "email": "Lisa_Smits@softix.nl"
+    },
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-05-01"
+  },
+  {
+    "id": "c878f961fb494865",
+    "beneficiary": {
+      "name": "Sandra Thränhardt",
+      "email": "sath@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2017-08-01"
+  },
+  {
+    "id": "4075dfb88bac4658",
+    "beneficiary": {
+      "name": "Ksenia Kuliński",
+      "email": "ksku@softix.com"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-07-01"
+  },
+  {
+    "id": "323b7eb732834c4b",
+    "beneficiary": {
+      "name": "Zula Grant",
+      "email": "Zula.Grant@softix.com"
+    },
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-04-01"
+  },
+  {
+    "id": "55d3d7b6d7ec46c6",
+    "beneficiary": {
+      "name": "Mikołaj Górniak",
+      "email": "migó@softix.com"
+    },
+    "city": "Warszawa",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2016-11-01"
+  },
+  {
+    "id": "e125c6642ff848be",
+    "beneficiary": {
+      "name": "Jerome Romaguera",
+      "email": "Jerome_Romaguera98@softix.com"
+    },
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-08-01"
+  },
+  {
+    "id": "84080ef81d4d4295",
+    "beneficiary": {
+      "name": "Talia DuBuque",
+      "email": "Talia_DuBuque85@softix.com"
+    },
+    "city": "San Francisco",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-12-01"
+  },
+  {
+    "id": "0ffa79eef3c740d6",
+    "beneficiary": {
+      "name": "Laurencja Chrzanowski",
+      "email": "lach@softix.pl"
+    },
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2016-07-01"
+  },
+  {
+    "id": "a461d6158f524d62",
+    "beneficiary": {
+      "name": "Anna Kaczmarek",
+      "email": "Anna53@softix.com"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2015-06-01"
+  },
+  {
+    "id": "0bf85097a3da4004",
+    "beneficiary": {
+      "name": "Łukasz Piotrowski",
+      "email": "ukasz83@softix.pl"
+    },
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-12-01"
+  },
+  {
+    "id": "992d0d530e1f4aba",
+    "beneficiary": {
+      "name": "Elżbieta Dąbek",
+      "email": "Elbieta_Dbek20@softix.pl"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-12-01"
+  },
+  {
+    "id": "9225615fbb6940db",
+    "beneficiary": {
+      "name": "Kleopatra Krupa",
+      "email": "klkr@softix.pl"
+    },
+    "city": "Wrocław",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2015-08-01"
+  },
+  {
+    "id": "985d0026147641b8",
+    "beneficiary": {
+      "name": "Ege Hübner",
+      "email": "eghü@softix.com"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-08-01"
+  },
+  {
+    "id": "8ccb18ba488f44d6",
+    "beneficiary": {
+      "name": "Patryk Słowiński",
+      "email": "Patryk_Sowiski92@softix.pl"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-12-01"
+  },
+  {
+    "id": "74a9d12b64214bd2",
+    "beneficiary": {
+      "name": "Sanne Bosch",
+      "email": "sabo@softix.nl"
+    },
+    "city": "Den Haag",
+    "country": "Netherlands",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-04-01"
+  },
+  {
+    "id": "c9bea6800c314954",
+    "beneficiary": {
+      "name": "Lilou Fournier",
+      "email": "Lilou_Fournier@softix.com"
+    },
+    "city": "Paris",
+    "country": "France",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2017-04-01"
+  },
+  {
+    "id": "bde3e707da3b4781",
+    "beneficiary": {
+      "name": "Maiya Oberbrunner",
+      "email": "maob@softix.com"
+    },
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-10-01"
+  },
+  {
+    "id": "677a42ae6ed74f44",
+    "beneficiary": {
+      "name": "Korinna Möller",
+      "email": "Korinna.Mller77@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-06-01"
+  },
+  {
+    "id": "5de1902a5d344650",
+    "beneficiary": {
+      "name": "Piersilvio Gallo",
+      "email": "piga@softix.it"
+    },
+    "city": "Roma",
+    "country": "Italy",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2016-04-01"
+  },
+  {
+    "id": "303e63f3d3b74c46",
+    "beneficiary": {
+      "name": "Lucas Leeuwen",
+      "email": "lule@softix.com"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2018-04-01"
+  },
+  {
+    "id": "f7c430a8f6a042d4",
+    "beneficiary": {
+      "name": "Maxima Gradzki",
+      "email": "Maxima23@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-08-01"
+  },
+  {
+    "id": "79424d8825aa43ef",
+    "beneficiary": {
+      "name": "Romane Richard",
+      "email": "Romane15@softix.com"
+    },
+    "city": "Lille",
+    "country": "France",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-06-01"
+  },
+  {
+    "id": "a993bea4c33c41e1",
+    "beneficiary": {
+      "name": "Ksawera Włodarczyk",
+      "email": "Ksawera67@softix.com"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-10-01"
+  },
+  {
+    "id": "65c922e7919a4619",
+    "beneficiary": {
+      "name": "Leila Szeląg",
+      "email": "Leila71@softix.com"
+    },
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-07-01"
+  },
+  {
+    "id": "ebd6bf2d0b6f4c8d",
+    "beneficiary": {
+      "name": "Pearlie Kuhic",
+      "email": "peku@softix.us"
+    },
+    "city": "Milpitas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-01-01"
+  },
+  {
+    "id": "3f96145065ef47de",
+    "beneficiary": {
+      "name": "Paul Vincent",
+      "email": "Paul39@softix.fr"
+    },
+    "city": "Brest",
+    "country": "France",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2016-11-01"
+  },
+  {
+    "id": "3977ded578c34f11",
+    "beneficiary": {
+      "name": "Philipp Madetzky",
+      "email": "phma@softix.de"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-06-01"
+  },
+  {
+    "id": "d43ffaf5dbd44762",
+    "beneficiary": {
+      "name": "Sandra Howe",
+      "email": "saho@softix.uk"
+    },
+    "city": "London",
+    "country": "United Kingdom",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-12-01"
+  },
+  {
+    "id": "a93e7f776ab14708",
+    "beneficiary": {
+      "name": "Isa Groot",
+      "email": "Isa.Groot38@softix.nl"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2014-09-01"
+  },
+  {
+    "id": "6171be2275f94adc",
+    "beneficiary": {
+      "name": "Delilah Gleason",
+      "email": "degl@softix.us"
+    },
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2013-08-01"
+  },
+  {
+    "id": "525e3ea916354145",
+    "beneficiary": {
+      "name": "Gerald Gawron",
+      "email": "Gerald.Gawron42@softix.pl"
+    },
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2015-07-01"
+  },
+  {
+    "id": "1d8e6cf113be4ee7",
+    "beneficiary": {
+      "name": "America Kemmer",
+      "email": "amke@softix.com"
+    },
+    "city": "Milpitas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-04-01"
+  },
+  {
+    "id": "d3918ca59f814472",
+    "beneficiary": {
+      "name": "Maud Hoek",
+      "email": "maho@softix.nl"
+    },
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2016-05-01"
+  },
+  {
+    "id": "fb6498c6af6c4a71",
+    "beneficiary": {
+      "name": "Lisa Smits",
+      "email": "Lisa_Smits@softix.nl"
+    },
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-09-01"
+  },
+  {
+    "id": "5f73b302a97a46af",
+    "beneficiary": {
+      "name": "Denise Geissler",
+      "email": "dege@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2017-11-01"
+  },
+  {
+    "id": "1807853373ee45b1",
+    "beneficiary": {
+      "name": "Alma Lichtl",
+      "email": "alli@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-12-01"
+  },
+  {
+    "id": "ea0ada287cdd4128",
+    "beneficiary": {
+      "name": "Leana Lichtenfeld",
+      "email": "Leana_Lichtenfeld@softix.de"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-09-01"
+  },
+  {
+    "id": "533dcfc2ef9c4954",
+    "beneficiary": {
+      "name": "Smilla Kleinert",
+      "email": "smkl@softix.de"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-10-01"
+  },
+  {
+    "id": "25ca89d226334d5a",
+    "beneficiary": {
+      "name": "Lena Herzenberg",
+      "email": "lehe@softix.com"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2016-09-01"
+  },
+  {
+    "id": "7319be7778254619",
+    "beneficiary": {
+      "name": "Lucas Dijkstra",
+      "email": "ludi@softix.nl"
+    },
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2016-10-01"
+  },
+  {
+    "id": "5cec2e4527f54042",
+    "beneficiary": {
+      "name": "Alicia Fleury",
+      "email": "alfl@softix.com"
+    },
+    "city": "Brest",
+    "country": "France",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2018-05-01"
+  },
+  {
+    "id": "539a97a6fca34bc8",
+    "beneficiary": {
+      "name": "Lena Charles",
+      "email": "Lena54@softix.fr"
+    },
+    "city": "Brest",
+    "country": "France",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2015-09-01"
+  },
+  {
+    "id": "de4697f8a8f4491e",
+    "beneficiary": {
+      "name": "Thomas Le roux",
+      "email": "Thomas54@softix.fr"
+    },
+    "city": "Brest",
+    "country": "France",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-07-01"
+  },
+  {
+    "id": "f849a33edf414506",
+    "beneficiary": {
+      "name": "Rachela Prokop",
+      "email": "Rachela6@softix.com"
+    },
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-12-01"
+  },
+  {
+    "id": "77dc508c21094687",
+    "beneficiary": {
+      "name": "Georg Mesloh",
+      "email": "Georg_Mesloh59@softix.de"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-03-01"
+  },
+  {
+    "id": "baa636b41ff942f3",
+    "beneficiary": {
+      "name": "Jeremi Skowroński",
+      "email": "Jeremi_Skowroski@softix.com"
+    },
+    "city": "Warszawa",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-04-01"
+  },
+  {
+    "id": "d5e4e463577d4ff6",
+    "beneficiary": {
+      "name": "Tancredi Caputo",
+      "email": "Tancredi56@softix.it"
+    },
+    "city": "Torino",
+    "country": "Italy",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2017-07-01"
+  },
+  {
+    "id": "2b84d906a18a434d",
+    "beneficiary": {
+      "name": "Salwator Mroczek",
+      "email": "samr@softix.pl"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-11-01"
+  },
+  {
+    "id": "dac03dc71a054491",
+    "beneficiary": {
+      "name": "Axel Bertrand",
+      "email": "axbe@softix.com"
+    },
+    "city": "Brest",
+    "country": "France",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-03-01"
+  },
+  {
+    "id": "fdccfdec37114b37",
+    "beneficiary": {
+      "name": "Eva Ruiter",
+      "email": "evru@softix.nl"
+    },
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-12-01"
+  },
+  {
+    "id": "27abc2a8f1554ff7",
+    "beneficiary": {
+      "name": "Maxima Abt",
+      "email": "Maxima37@softix.com"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2016-05-01"
+  },
+  {
+    "id": "dcdea99629694e69",
+    "beneficiary": {
+      "name": "Keira Zieme",
+      "email": "kezi@softix.uk"
+    },
+    "city": "Bracknell",
+    "country": "United Kingdom",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-02-01"
+  },
+  {
+    "id": "4a5676713ada4e0d",
+    "beneficiary": {
+      "name": "Filip Siedlecki",
+      "email": "Filip53@softix.pl"
+    },
+    "city": "Radom",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-02-01"
+  },
+  {
+    "id": "5202983903574a0a",
+    "beneficiary": {
+      "name": "Gracja Pytel",
+      "email": "Gracja.Pytel@softix.pl"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-08-01"
+  },
+  {
+    "id": "61bac750513f4a99",
+    "beneficiary": {
+      "name": "Rick Veen",
+      "email": "rive@softix.nl"
+    },
+    "city": "Den Haag",
+    "country": "Netherlands",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2017-12-01"
+  },
+  {
+    "id": "79b003b3ce824dba",
+    "beneficiary": {
+      "name": "Emma Ven",
+      "email": "emve@softix.nl"
+    },
+    "city": "Den Haag",
+    "country": "Netherlands",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2016-04-01"
+  },
+  {
+    "id": "0be7cfd6444d4bf2",
+    "beneficiary": {
+      "name": "Elżbieta Dąbek",
+      "email": "Elbieta_Dbek20@softix.pl"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-09-01"
+  },
+  {
+    "id": "5606c94617994f9b",
+    "beneficiary": {
+      "name": "Rick Dijk",
+      "email": "ridi@softix.nl"
+    },
+    "city": "Den Haag",
+    "country": "Netherlands",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-03-01"
+  },
+  {
+    "id": "7f3c6a9dfc834c76",
+    "beneficiary": {
+      "name": "Alan Rudziński",
+      "email": "alru@softix.pl"
+    },
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-10-01"
+  },
+  {
+    "id": "442dec1e075f4b5b",
+    "beneficiary": {
+      "name": "Tyron Adams",
+      "email": "Tyron_Adams@softix.com"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2017-04-01"
+  },
+  {
+    "id": "09bc4955330d4d31",
+    "beneficiary": {
+      "name": "Tanja Bieler",
+      "email": "tabi@softix.com"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-05-01"
+  },
+  {
+    "id": "5959dfcc3267431e",
+    "beneficiary": {
+      "name": "Dagmar Schiller",
+      "email": "Dagmar_Schiller@softix.us"
+    },
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-11-01"
+  },
+  {
+    "id": "223f537127d849ca",
+    "beneficiary": {
+      "name": "Izolda Wójcicki",
+      "email": "izwó@softix.pl"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-12-01"
+  },
+  {
+    "id": "b444da7d6295457a",
+    "beneficiary": {
+      "name": "Nina Linnenbaum",
+      "email": "Nina_Linnenbaum@softix.de"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2014-12-01"
+  },
+  {
+    "id": "915a98531f9a4637",
+    "beneficiary": {
+      "name": "Brown Gibson",
+      "email": "brgi@softix.us"
+    },
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2014-12-01"
+  },
+  {
+    "id": "3cac8681e4084000",
+    "beneficiary": {
+      "name": "Jonatan Flis",
+      "email": "jofl@softix.com"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-01-01"
+  },
+  {
+    "id": "5de9f0eed5b84678",
+    "beneficiary": {
+      "name": "Bart Konopelski",
+      "email": "bako@softix.com"
+    },
+    "city": "San Francisco",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2014-10-01"
+  },
+  {
+    "id": "6ea6dee7cdb84dd0",
+    "beneficiary": {
+      "name": "Reginald Tremblay",
+      "email": "Reginald.Tremblay87@softix.uk"
+    },
+    "city": "London",
+    "country": "United Kingdom",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-04-01"
+  },
+  {
+    "id": "0aab53c0b2974352",
+    "beneficiary": {
+      "name": "Marianna Flak",
+      "email": "mafl@softix.pl"
+    },
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-04-01"
+  },
+  {
+    "id": "ddfbd1794a41411f",
+    "beneficiary": {
+      "name": "Luk Peters",
+      "email": "Luk.Peters42@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-02-01"
+  },
+  {
+    "id": "66438037cd984ef1",
+    "beneficiary": {
+      "name": "Noa Vliet",
+      "email": "novl@softix.com"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-05-01"
+  },
+  {
+    "id": "4bd648f7b1734e35",
+    "beneficiary": {
+      "name": "Milla Flore",
+      "email": "Milla_Flore@softix.com"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-04-01"
+  },
+  {
+    "id": "95c137c1c3ea4a1d",
+    "beneficiary": {
+      "name": "Bibianna Andrzejczak",
+      "email": "bian@softix.pl"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-07-01"
+  },
+  {
+    "id": "e5cbc120b3844595",
+    "beneficiary": {
+      "name": "Edgar Ciesielski",
+      "email": "Edgar8@softix.com"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-09-01"
+  },
+  {
+    "id": "892734486dda4f84",
+    "beneficiary": {
+      "name": "Cristian Rosas",
+      "email": "Cristian.Rosas68@softix.es"
+    },
+    "city": "Madrid",
+    "country": "Spain",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-03-01"
+  },
+  {
+    "id": "41476fd08c454a29",
+    "beneficiary": {
+      "name": "Zoe Kwiatkowski",
+      "email": "zokw@softix.pl"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-12-01"
+  },
+  {
+    "id": "a297c53379da4428",
+    "beneficiary": {
+      "name": "Christopher Thöne",
+      "email": "Christopher.Thne@softix.com"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-12-01"
+  },
+  {
+    "id": "198be40ed67d4a1c",
+    "beneficiary": {
+      "name": "Annabel Kuvalis",
+      "email": "anku@softix.com"
+    },
+    "city": "Bracknell",
+    "country": "United Kingdom",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2015-12-01"
+  },
+  {
+    "id": "8ae5298d391f493a",
+    "beneficiary": {
+      "name": "Annamarie Larson",
+      "email": "Annamarie18@softix.uk"
+    },
+    "city": "Plymouth",
+    "country": "United Kingdom",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-12-01"
+  },
+  {
+    "id": "918ecab830c44719",
+    "beneficiary": {
+      "name": "Rachela Prokop",
+      "email": "Rachela6@softix.com"
+    },
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-02-01"
+  },
+  {
+    "id": "f68d7c51d6234726",
+    "beneficiary": {
+      "name": "Elijah Tress",
+      "email": "Elijah5@softix.com"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-09-01"
+  },
+  {
+    "id": "3c9842d270364d55",
+    "beneficiary": {
+      "name": "Théo Schneider",
+      "email": "Tho_Schneider47@softix.com"
+    },
+    "city": "Rennes",
+    "country": "France",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2017-09-01"
+  },
+  {
+    "id": "7a077b838d484c93",
+    "beneficiary": {
+      "name": "Obie Oberbrunner",
+      "email": "Obie21@softix.com"
+    },
+    "city": "Plymouth",
+    "country": "United Kingdom",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-04-01"
+  },
+  {
+    "id": "597f8a8766ab4210",
+    "beneficiary": {
+      "name": "Maximilian Schwidde",
+      "email": "masc@softix.com"
+    },
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2013-08-01"
+  },
+  {
+    "id": "e60d6d516fdb4497",
+    "beneficiary": {
+      "name": "Liam Hofmann",
+      "email": "Liam.Hofmann@softix.de"
+    },
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2014-08-01"
+  },
+  {
+    "id": "e70438308bdf4d97",
+    "beneficiary": {
+      "name": "Mateo Rosado",
+      "email": "maro@softix.es"
+    },
+    "city": "Madrid",
+    "country": "Spain",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2015-02-01"
+  },
+  {
+    "id": "3fd0db533c9443df",
+    "beneficiary": {
+      "name": "Ceylin Rockmeier",
+      "email": "cero@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-01-01"
+  },
+  {
+    "id": "997d640207ec4aef",
+    "beneficiary": {
+      "name": "Emma Klein",
+      "email": "emkl@softix.nl"
+    },
+    "city": "Den Haag",
+    "country": "Netherlands",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-08-01"
+  },
+  {
+    "id": "2c9e803a66ab421c",
+    "beneficiary": {
+      "name": "Rayan Nguyen",
+      "email": "rang@softix.fr"
+    },
+    "city": "Brest",
+    "country": "France",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-02-01"
+  },
+  {
+    "id": "a7853bd8877a40e9",
+    "beneficiary": {
+      "name": "Koralia Gajewski",
+      "email": "koga@softix.com"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2014-08-01"
+  },
+  {
+    "id": "4da4aa67d2704f43",
+    "beneficiary": {
+      "name": "Fabian Dibbert",
+      "email": "fadi@softix.us"
+    },
+    "city": "Milpitas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-11-01"
+  },
+  {
+    "id": "5001271a7bc14ddd",
+    "beneficiary": {
+      "name": "Patryk Kwieciński",
+      "email": "Patryk96@softix.pl"
+    },
+    "city": "Wrocław",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2016-09-01"
+  },
+  {
+    "id": "8e454b846f4c4ebb",
+    "beneficiary": {
+      "name": "Kevin Willems",
+      "email": "Kevin85@softix.nl"
+    },
+    "city": "Den Haag",
+    "country": "Netherlands",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-07-01"
+  },
+  {
+    "id": "ecffc29b1bee485d",
+    "beneficiary": {
+      "name": "Jan Jaros",
+      "email": "Jan51@softix.com"
+    },
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2015-05-01"
+  },
+  {
+    "id": "76b984ba0437465f",
+    "beneficiary": {
+      "name": "Lisa Dupuy",
+      "email": "lidu@softix.com"
+    },
+    "city": "Rennes",
+    "country": "France",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2016-12-01"
+  },
+  {
+    "id": "42ccd28da0e34516",
+    "beneficiary": {
+      "name": "Oleg Sochacki",
+      "email": "olso@softix.com"
+    },
+    "city": "Warszawa",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-04-01"
+  },
+  {
+    "id": "58fb14e116cb48b0",
+    "beneficiary": {
+      "name": "Annemarie Travan",
+      "email": "antr@softix.com"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-07-01"
+  },
+  {
+    "id": "112cb468b5104d40",
+    "beneficiary": {
+      "name": "Mila Kähler",
+      "email": "mikä@softix.com"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-09-01"
+  },
+  {
+    "id": "8fd21d8a2f4a40d4",
+    "beneficiary": {
+      "name": "Léa Barbier",
+      "email": "léba@softix.fr"
+    },
+    "city": "Brest",
+    "country": "France",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-03-01"
+  },
+  {
+    "id": "4d90f897ad334363",
+    "beneficiary": {
+      "name": "Pierre Schmitt",
+      "email": "Pierre77@softix.com"
+    },
+    "city": "Rennes",
+    "country": "France",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-05-01"
+  },
+  {
+    "id": "117871cc4de94a54",
+    "beneficiary": {
+      "name": "Leon Żyła",
+      "email": "leży@softix.com"
+    },
+    "city": "Wrocław",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2015-11-01"
+  },
+  {
+    "id": "dfc1fabb56dd4f30",
+    "beneficiary": {
+      "name": "Linda Rodehau",
+      "email": "Linda_Rodehau43@softix.com"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-11-01"
+  },
+  {
+    "id": "565a118f106145d8",
+    "beneficiary": {
+      "name": "Niels Boer",
+      "email": "nibo@softix.com"
+    },
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-05-01"
+  },
+  {
+    "id": "a22286483b484fb6",
+    "beneficiary": {
+      "name": "Eva Ruiter",
+      "email": "evru@softix.nl"
+    },
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2013-12-01"
+  },
+  {
+    "id": "1b754c24ba134661",
+    "beneficiary": {
+      "name": "Lara Jürgens",
+      "email": "lajü@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2015-09-01"
+  },
+  {
+    "id": "0cabb61c325842f9",
+    "beneficiary": {
+      "name": "Krzysztof Kot",
+      "email": "krko@softix.com"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-12-01"
+  },
+  {
+    "id": "acfa8200a29a4df7",
+    "beneficiary": {
+      "name": "Maëlle Vidal",
+      "email": "Malle_Vidal@softix.fr"
+    },
+    "city": "Rennes",
+    "country": "France",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2015-04-01"
+  },
+  {
+    "id": "6526867898244162",
+    "beneficiary": {
+      "name": "Marissa Hess",
+      "email": "Marissa.Hess@softix.com"
+    },
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2017-07-01"
+  },
+  {
+    "id": "5c2a3535e44c41e9",
+    "beneficiary": {
+      "name": "Sander Visser",
+      "email": "savi@softix.com"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-07-01"
+  },
+  {
+    "id": "bc053853426a4948",
+    "beneficiary": {
+      "name": "Róża Kaczmarski",
+      "email": "Ra_Kaczmarski18@softix.com"
+    },
+    "city": "Wrocław",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-06-01"
+  },
+  {
+    "id": "f1ecba16df9844ea",
+    "beneficiary": {
+      "name": "Bertrand Trzeciak",
+      "email": "betr@softix.pl"
+    },
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2016-02-01"
+  },
+  {
+    "id": "88a68f0f844b4098",
+    "beneficiary": {
+      "name": "Dorian Wiśniewski",
+      "email": "dowi@softix.com"
+    },
+    "city": "Radom",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-07-01"
+  },
+  {
+    "id": "c83c801b41c04ce6",
+    "beneficiary": {
+      "name": "Jolie Ritter",
+      "email": "jori@softix.com"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2014-10-01"
+  },
+  {
+    "id": "8ad5c1cc3138497a",
+    "beneficiary": {
+      "name": "Buck Stoltenberg",
+      "email": "Buck58@softix.com"
+    },
+    "city": "London",
+    "country": "United Kingdom",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-02-01"
+  },
+  {
+    "id": "6dd03b1818024374",
+    "beneficiary": {
+      "name": "Teodor Czajka",
+      "email": "tecz@softix.com"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2016-10-01"
+  },
+  {
+    "id": "ee4543dfdd7141aa",
+    "beneficiary": {
+      "name": "Jessika O'Kon",
+      "email": "jeo'@softix.us"
+    },
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-10-01"
+  },
+  {
+    "id": "8ffbff3168fd49d1",
+    "beneficiary": {
+      "name": "Lieke Hoek",
+      "email": "Lieke_Hoek@softix.nl"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-05-01"
+  },
+  {
+    "id": "d324ee67e9c74118",
+    "beneficiary": {
+      "name": "Benjamin Fabre",
+      "email": "befa@softix.fr"
+    },
+    "city": "Rennes",
+    "country": "France",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-06-01"
+  },
+  {
+    "id": "cee516139ed84b3e",
+    "beneficiary": {
+      "name": "Anne Beek",
+      "email": "Anne87@softix.nl"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2018-05-01"
+  },
+  {
+    "id": "9adda74c5c314d89",
+    "beneficiary": {
+      "name": "Johannes Veen",
+      "email": "jove@softix.com"
+    },
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-03-01"
+  },
+  {
+    "id": "5bdf8901539a4947",
+    "beneficiary": {
+      "name": "Nadine Bedewitz",
+      "email": "Nadine49@softix.com"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2017-11-01"
+  },
+  {
+    "id": "b71f79a1d5f8417e",
+    "beneficiary": {
+      "name": "Destini Wehner",
+      "email": "dewe@softix.us"
+    },
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-07-01"
+  },
+  {
+    "id": "a4ce4582aae44073",
+    "beneficiary": {
+      "name": "Marko Alexander",
+      "email": "maal@softix.de"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2017-02-01"
+  },
+  {
+    "id": "b75440cb6e304547",
+    "beneficiary": {
+      "name": "Nina Linnenbaum",
+      "email": "Nina_Linnenbaum@softix.de"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2013-12-01"
+  },
+  {
+    "id": "bb0c6b4bfab147a3",
+    "beneficiary": {
+      "name": "Etienne Naubert",
+      "email": "Etienne.Naubert@softix.de"
+    },
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2017-05-01"
+  },
+  {
+    "id": "8b755e2a31ec4ce5",
+    "beneficiary": {
+      "name": "Louisa Weyel",
+      "email": "lowe@softix.de"
+    },
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2017-09-01"
+  },
+  {
+    "id": "b6f156089ae642c7",
+    "beneficiary": {
+      "name": "Spirydion Kowalczyk",
+      "email": "Spirydion_Kowalczyk@softix.com"
+    },
+    "city": "Radom",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2015-04-01"
+  },
+  {
+    "id": "7e1f4a89fd894c90",
+    "beneficiary": {
+      "name": "Rachela Kuciński",
+      "email": "Rachela.Kuciski98@softix.com"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-08-01"
+  },
+  {
+    "id": "0c4d0f462b0f4043",
+    "beneficiary": {
+      "name": "Tom Jong",
+      "email": "Tom28@softix.com"
+    },
+    "city": "Den Haag",
+    "country": "Netherlands",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2018-05-01"
+  },
+  {
+    "id": "6d8cfd8a1bd844b0",
+    "beneficiary": {
+      "name": "Maxima Gradzki",
+      "email": "Maxima23@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2017-05-01"
+  },
+  {
+    "id": "0759842c12d74273",
+    "beneficiary": {
+      "name": "Raphaël Giraud",
+      "email": "ragi@softix.com"
+    },
+    "city": "Brest",
+    "country": "France",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-11-01"
+  },
+  {
+    "id": "76510b24e7d74825",
+    "beneficiary": {
+      "name": "Agnieszka Adamek",
+      "email": "agad@softix.pl"
+    },
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-12-01"
+  },
+  {
+    "id": "8618676332c849b8",
+    "beneficiary": {
+      "name": "Benjamin Ringer",
+      "email": "Benjamin_Ringer@softix.com"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2018-02-01"
+  },
+  {
+    "id": "20456446f85f4ff2",
+    "beneficiary": {
+      "name": "Jules Barre",
+      "email": "Jules_Barre75@softix.fr"
+    },
+    "city": "Lille",
+    "country": "France",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-05-01"
+  },
+  {
+    "id": "ec0921ab3cf9458a",
+    "beneficiary": {
+      "name": "Mirco De Santis",
+      "email": "mide@softix.com"
+    },
+    "city": "Torino",
+    "country": "Italy",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2015-06-01"
+  },
+  {
+    "id": "249e3afd51674b43",
+    "beneficiary": {
+      "name": "Korinna Möller",
+      "email": "Korinna.Mller77@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2018-01-01"
+  },
+  {
+    "id": "730b566bcc9a45a4",
+    "beneficiary": {
+      "name": "Alexis Prevost",
+      "email": "alpr@softix.com"
+    },
+    "city": "Paris",
+    "country": "France",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-11-01"
+  },
+  {
+    "id": "acf74ef2add64a0b",
+    "beneficiary": {
+      "name": "Niko Verniest",
+      "email": "nive@softix.com"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-11-01"
+  },
+  {
+    "id": "57f226c5012341f3",
+    "beneficiary": {
+      "name": "Gustav Frisch",
+      "email": "Gustav_Frisch@softix.com"
+    },
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-07-01"
+  },
+  {
+    "id": "223612610e6c4298",
+    "beneficiary": {
+      "name": "Thomas Lemaire",
+      "email": "thle@softix.fr"
+    },
+    "city": "Rennes",
+    "country": "France",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2017-12-01"
+  },
+  {
+    "id": "2f99d50de5144a4a",
+    "beneficiary": {
+      "name": "Mikołaj Wnuk",
+      "email": "miwn@softix.pl"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-01-01"
+  },
+  {
+    "id": "4b1969a9cee5405b",
+    "beneficiary": {
+      "name": "Xenia Klinger",
+      "email": "Xenia_Klinger@softix.de"
+    },
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-01-01"
+  },
+  {
+    "id": "30f3e1c8e68542bf",
+    "beneficiary": {
+      "name": "Alma Lichtl",
+      "email": "alli@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2018-03-01"
+  },
+  {
+    "id": "3fba0dd8faf5476a",
+    "beneficiary": {
+      "name": "Konrad Kufahl",
+      "email": "Konrad26@softix.com"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2015-04-01"
+  },
+  {
+    "id": "f14f069b377e4307",
+    "beneficiary": {
+      "name": "Amber Haan",
+      "email": "amha@softix.nl"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-04-01"
+  },
+  {
+    "id": "f9187e9b3c464794",
+    "beneficiary": {
+      "name": "Bilal Steinkamp",
+      "email": "bist@softix.com"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2014-07-01"
+  },
+  {
+    "id": "23c618929b484bd4",
+    "beneficiary": {
+      "name": "Lars Broek",
+      "email": "labr@softix.nl"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2017-09-01"
+  },
+  {
+    "id": "c035b08ffae64173",
+    "beneficiary": {
+      "name": "Katharina Kustermann",
+      "email": "kaku@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2017-10-01"
+  },
+  {
+    "id": "c442b83dbbe04060",
+    "beneficiary": {
+      "name": "Paul Guerin",
+      "email": "Paul_Guerin19@softix.fr"
+    },
+    "city": "Lille",
+    "country": "France",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-04-01"
+  },
+  {
+    "id": "aa4bf1f0140c4fef",
+    "beneficiary": {
+      "name": "Benjamin Ringer",
+      "email": "Benjamin_Ringer@softix.com"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2013-12-01"
+  },
+  {
+    "id": "42da1905911344da",
+    "beneficiary": {
+      "name": "Maud Maas",
+      "email": "mama@softix.com"
+    },
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2017-06-01"
+  },
+  {
+    "id": "e0c8b46d8ce14c7e",
+    "beneficiary": {
+      "name": "Kira Jamrozy",
+      "email": "kija@softix.de"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2015-08-01"
+  },
+  {
+    "id": "689795e8b7ce46f2",
+    "beneficiary": {
+      "name": "Jovan Brekke",
+      "email": "Jovan58@softix.com"
+    },
+    "city": "London",
+    "country": "United Kingdom",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-05-01"
+  },
+  {
+    "id": "c199e0a7c6794f7b",
+    "beneficiary": {
+      "name": "Madleen Feld",
+      "email": "Madleen13@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2017-07-01"
+  },
+  {
+    "id": "005092ebc65847dc",
+    "beneficiary": {
+      "name": "Lenora Herman",
+      "email": "lehe@softix.uk"
+    },
+    "city": "London",
+    "country": "United Kingdom",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-07-01"
+  },
+  {
+    "id": "e0778bbcd25f46d1",
+    "beneficiary": {
+      "name": "Arthur Fontaine",
+      "email": "Arthur.Fontaine48@softix.fr"
+    },
+    "city": "Rennes",
+    "country": "France",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-11-01"
+  },
+  {
+    "id": "1d75391ece6646c5",
+    "beneficiary": {
+      "name": "Cristian Schowalter",
+      "email": "crsc@softix.uk"
+    },
+    "city": "Bracknell",
+    "country": "United Kingdom",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-01-01"
+  },
+  {
+    "id": "f6a05b3bd7da4d32",
+    "beneficiary": {
+      "name": "Lesly Lang",
+      "email": "lela@softix.com"
+    },
+    "city": "London",
+    "country": "United Kingdom",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-09-01"
+  },
+  {
+    "id": "fdb4c392210d499f",
+    "beneficiary": {
+      "name": "Kevin Stichting",
+      "email": "Kevin36@softix.nl"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2017-01-01"
+  },
+  {
+    "id": "3081fb8f1f174263",
+    "beneficiary": {
+      "name": "Mathéo Petit",
+      "email": "Matho65@softix.fr"
+    },
+    "city": "Lille",
+    "country": "France",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2015-09-01"
+  },
+  {
+    "id": "c726dad3476f4d67",
+    "beneficiary": {
+      "name": "Adriano Brix",
+      "email": "adbr@softix.com"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2016-11-01"
+  },
+  {
+    "id": "92f6c63e26ac4ff5",
+    "beneficiary": {
+      "name": "Jimmy Dombrowski",
+      "email": "jido@softix.com"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2014-02-01"
+  },
+  {
+    "id": "7d3cf00cdb4a4cc6",
+    "beneficiary": {
+      "name": "Maryna Rybicki",
+      "email": "mary@softix.pl"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-11-01"
+  },
+  {
+    "id": "554b154091d042b0",
+    "beneficiary": {
+      "name": "Jimmy Dombrowski",
+      "email": "jido@softix.com"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2017-02-01"
+  },
+  {
+    "id": "a83ebce5a85241f6",
+    "beneficiary": {
+      "name": "Wanesa Książek",
+      "email": "waks@softix.pl"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-04-01"
+  },
+  {
+    "id": "0338ddf65e024cba",
+    "beneficiary": {
+      "name": "Eleonora Blockhaus",
+      "email": "elbl@softix.com"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-12-01"
+  },
+  {
+    "id": "0f009775b6df46cf",
+    "beneficiary": {
+      "name": "Lili Neuendorf",
+      "email": "Lili_Neuendorf53@softix.com"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-01-01"
+  },
+  {
+    "id": "e2b5838bb2f448c0",
+    "beneficiary": {
+      "name": "Osmund Molenda",
+      "email": "Osmund80@softix.com"
+    },
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-07-01"
+  },
+  {
+    "id": "9980ea0981bb4604",
+    "beneficiary": {
+      "name": "Lena Herzenberg",
+      "email": "lehe@softix.com"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2014-12-01"
+  },
+  {
+    "id": "44e5711ea7374ed1",
+    "beneficiary": {
+      "name": "Eliana Dragu",
+      "email": "eldr@softix.de"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2016-07-01"
+  },
+  {
+    "id": "2c046daf98c64e3f",
+    "beneficiary": {
+      "name": "Luk Peters",
+      "email": "Luk.Peters42@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2017-07-01"
+  },
+  {
+    "id": "211cf39e3e554333",
+    "beneficiary": {
+      "name": "Ege Hübner",
+      "email": "eghü@softix.com"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2017-08-01"
+  },
+  {
+    "id": "29d6d23adac24eb3",
+    "beneficiary": {
+      "name": "Sander Berg",
+      "email": "Sander_Berg38@softix.nl"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2016-09-01"
+  },
+  {
+    "id": "3c0425ca6f3845c8",
+    "beneficiary": {
+      "name": "Britt Groot",
+      "email": "brgr@softix.nl"
+    },
+    "city": "Den Haag",
+    "country": "Netherlands",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2018-02-01"
+  },
+  {
+    "id": "426c3e200e6045e3",
+    "beneficiary": {
+      "name": "Finn Groot",
+      "email": "Finn.Groot84@softix.nl"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-02-01"
+  },
+  {
+    "id": "c9a3d4f12a524c19",
+    "beneficiary": {
+      "name": "Mathis Louis",
+      "email": "malo@softix.com"
+    },
+    "city": "Brest",
+    "country": "France",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2015-10-01"
+  },
+  {
+    "id": "b47d78fc2bb24c7c",
+    "beneficiary": {
+      "name": "Carmen Valadez",
+      "email": "cava@softix.com"
+    },
+    "city": "Madrid",
+    "country": "Spain",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2016-02-01"
+  },
+  {
+    "id": "4aca910ba7d5402a",
+    "beneficiary": {
+      "name": "Cleta Champlin",
+      "email": "clch@softix.us"
+    },
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-11-01"
+  },
+  {
+    "id": "e348fdf993dc4239",
+    "beneficiary": {
+      "name": "Erwin Misiak",
+      "email": "Erwin92@softix.com"
+    },
+    "city": "Radom",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2015-10-01"
+  },
+  {
+    "id": "0a0c9805cef54e2a",
+    "beneficiary": {
+      "name": "Aleksy Krupa",
+      "email": "Aleksy_Krupa@softix.pl"
+    },
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-05-01"
+  },
+  {
+    "id": "84a99e05a102454e",
+    "beneficiary": {
+      "name": "Marissa Jess",
+      "email": "maje@softix.com"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-10-01"
+  },
+  {
+    "id": "d26b5d6c7a6b460a",
+    "beneficiary": {
+      "name": "Linus Zeidler",
+      "email": "Linus15@softix.com"
+    },
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2014-08-01"
+  },
+  {
+    "id": "28fcac779abc4d27",
+    "beneficiary": {
+      "name": "Thalea Hermann",
+      "email": "Thalea47@softix.com"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2017-04-01"
+  },
+  {
+    "id": "88bdb63d49004975",
+    "beneficiary": {
+      "name": "Ruta Łapiński",
+      "email": "ruła@softix.com"
+    },
+    "city": "Radom",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-06-01"
+  },
+  {
+    "id": "b6ca1da76c9e42b6",
+    "beneficiary": {
+      "name": "Mayra West",
+      "email": "mawe@softix.com"
+    },
+    "city": "London",
+    "country": "United Kingdom",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2014-08-01"
+  },
+  {
+    "id": "301a98538ae94f3f",
+    "beneficiary": {
+      "name": "Josie Daimer",
+      "email": "Josie.Daimer@softix.com"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2018-03-01"
+  },
+  {
+    "id": "e686e8eb2b4a47d5",
+    "beneficiary": {
+      "name": "Roos Groot",
+      "email": "Roos15@softix.com"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2016-04-01"
+  },
+  {
+    "id": "be5d52c4f3c147ed",
+    "beneficiary": {
+      "name": "Josua Wünsche",
+      "email": "Josua.Wnsche40@softix.com"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2015-11-01"
+  },
+  {
+    "id": "01cc3ad52e77492f",
+    "beneficiary": {
+      "name": "Paul Pöge",
+      "email": "papö@softix.com"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-08-01"
+  },
+  {
+    "id": "58e6c5d148f1496e",
+    "beneficiary": {
+      "name": "Sander Visser",
+      "email": "savi@softix.com"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-02-01"
+  },
+  {
+    "id": "c0aa14aca24a4a13",
+    "beneficiary": {
+      "name": "Beniamin Wieczorek",
+      "email": "Beniamin91@softix.com"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2014-04-01"
+  },
+  {
+    "id": "8c6cbcc146bb40a0",
+    "beneficiary": {
+      "name": "Patrizio Valentini",
+      "email": "Patrizio22@softix.com"
+    },
+    "city": "Roma",
+    "country": "Italy",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2014-02-01"
+  },
+  {
+    "id": "54295f8f2f4c4045",
+    "beneficiary": {
+      "name": "Ahmad Koleiski",
+      "email": "ahko@softix.com"
+    },
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2017-08-01"
+  },
+  {
+    "id": "cd15ec510f2849be",
+    "beneficiary": {
+      "name": "Valentin Marchal",
+      "email": "vama@softix.fr"
+    },
+    "city": "Paris",
+    "country": "France",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-05-01"
+  },
+  {
+    "id": "7c7847356c444d5f",
+    "beneficiary": {
+      "name": "Alisha Kruschinski",
+      "email": "Alisha_Kruschinski79@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-09-01"
+  },
+  {
+    "id": "b036a42050744c36",
+    "beneficiary": {
+      "name": "Marta Ziemann",
+      "email": "Marta21@softix.us"
+    },
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-05-01"
+  },
+  {
+    "id": "ccf5b726d24e49c5",
+    "beneficiary": {
+      "name": "Mateo Cierpinski",
+      "email": "maci@softix.de"
+    },
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2016-08-01"
+  },
+  {
+    "id": "20063037655341e9",
+    "beneficiary": {
+      "name": "Tarik Schmidt",
+      "email": "tasc@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2014-11-01"
+  },
+  {
+    "id": "31ae5c74abca4b6e",
+    "beneficiary": {
+      "name": "Kevin Jacobs",
+      "email": "Kevin76@softix.com"
+    },
+    "city": "Den Haag",
+    "country": "Netherlands",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2015-08-01"
+  },
+  {
+    "id": "0aa76cf58b374674",
+    "beneficiary": {
+      "name": "Princess Prohaska",
+      "email": "prpr@softix.com"
+    },
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-06-01"
+  },
+  {
+    "id": "775f3e0117bd4516",
+    "beneficiary": {
+      "name": "Domenico Muller",
+      "email": "Domenico_Muller@softix.us"
+    },
+    "city": "San Francisco",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-04-01"
+  },
+  {
+    "id": "90443c533a634f10",
+    "beneficiary": {
+      "name": "Gina Graf",
+      "email": "Gina95@softix.de"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-10-01"
+  },
+  {
+    "id": "0b9a89b457c04e02",
+    "beneficiary": {
+      "name": "Stijn Ven",
+      "email": "Stijn.Ven@softix.nl"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2017-04-01"
+  },
+  {
+    "id": "cb03ed4803984d7a",
+    "beneficiary": {
+      "name": "Angelina Steuk",
+      "email": "anst@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2015-08-01"
+  },
+  {
+    "id": "4470bd414f614026",
+    "beneficiary": {
+      "name": "Stanisław Kuc",
+      "email": "Stanisaw_Kuc@softix.pl"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-12-01"
+  },
+  {
+    "id": "b6ceb882862a49a2",
+    "beneficiary": {
+      "name": "Thijs Beek",
+      "email": "Thijs46@softix.com"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2017-09-01"
+  },
+  {
+    "id": "5e15fa91c8284106",
+    "beneficiary": {
+      "name": "Fiona Huke",
+      "email": "Fiona_Huke@softix.com"
+    },
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2013-09-01"
+  },
+  {
+    "id": "0b1b257522de42f4",
+    "beneficiary": {
+      "name": "Mike Stichting",
+      "email": "Mike37@softix.nl"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2016-11-01"
+  },
+  {
+    "id": "1ed0cb24c6384f31",
+    "beneficiary": {
+      "name": "Mélissa Aubert",
+      "email": "Mlissa8@softix.fr"
+    },
+    "city": "Lille",
+    "country": "France",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2016-09-01"
+  },
+  {
+    "id": "4bd2ea0ad6884f3a",
+    "beneficiary": {
+      "name": "Kyra Trautmann",
+      "email": "Kyra_Trautmann@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2018-03-01"
+  },
+  {
+    "id": "07ffab53fafc4002",
+    "beneficiary": {
+      "name": "Sanne Mulder",
+      "email": "samu@softix.nl"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-06-01"
+  },
+  {
+    "id": "6cc96193b0924845",
+    "beneficiary": {
+      "name": "Jasper Dam",
+      "email": "Jasper_Dam@softix.nl"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2017-07-01"
+  },
+  {
+    "id": "20879660c2284903",
+    "beneficiary": {
+      "name": "Gabriel Mathieu",
+      "email": "gama@softix.com"
+    },
+    "city": "Rennes",
+    "country": "France",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-11-01"
+  },
+  {
+    "id": "c8f7f432a4a245da",
+    "beneficiary": {
+      "name": "Karolina Wójtowicz",
+      "email": "kawó@softix.com"
+    },
+    "city": "Wrocław",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2016-04-01"
+  },
+  {
+    "id": "5cbdd875127c413c",
+    "beneficiary": {
+      "name": "Róża Filipiak",
+      "email": "Ra_Filipiak@softix.com"
+    },
+    "city": "Wrocław",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-12-01"
+  },
+  {
+    "id": "f8deeedbcbb645d6",
+    "beneficiary": {
+      "name": "Finn Vos",
+      "email": "fivo@softix.com"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2015-10-01"
+  },
+  {
+    "id": "c36cf97fae8b4f38",
+    "beneficiary": {
+      "name": "Martin Schönebeck",
+      "email": "masc@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2016-01-01"
+  },
+  {
+    "id": "349134c7625e46b9",
+    "beneficiary": {
+      "name": "Rebecca Caspers",
+      "email": "reca@softix.com"
+    },
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-07-01"
+  },
+  {
+    "id": "12b089f820084bde",
+    "beneficiary": {
+      "name": "Matilda Van",
+      "email": "mava@softix.de"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2017-06-01"
+  },
+  {
+    "id": "eac87bfbe10a42f7",
+    "beneficiary": {
+      "name": "Józefina Bukowski",
+      "email": "jóbu@softix.com"
+    },
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2014-09-01"
+  },
+  {
+    "id": "45ad9eaa9ad849f7",
+    "beneficiary": {
+      "name": "Anastazja Gałązka",
+      "email": "anga@softix.pl"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-04-01"
+  },
+  {
+    "id": "9e95069fd9aa417f",
+    "beneficiary": {
+      "name": "Jayden Leeuwen",
+      "email": "jale@softix.com"
+    },
+    "city": "Den Haag",
+    "country": "Netherlands",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-04-01"
+  },
+  {
+    "id": "392a2a3f4a964d7e",
+    "beneficiary": {
+      "name": "Constance Jones",
+      "email": "cojo@softix.us"
+    },
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2014-04-01"
+  },
+  {
+    "id": "67436ef7a91b4a59",
+    "beneficiary": {
+      "name": "Pauline Renaud",
+      "email": "Pauline61@softix.com"
+    },
+    "city": "Paris",
+    "country": "France",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-02-01"
+  },
+  {
+    "id": "5f20ab4e15854eb9",
+    "beneficiary": {
+      "name": "Elga Palumbo",
+      "email": "elpa@softix.com"
+    },
+    "city": "Torino",
+    "country": "Italy",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2017-03-01"
+  },
+  {
+    "id": "6f46df3ade7b46a7",
+    "beneficiary": {
+      "name": "Leon Żyła",
+      "email": "leży@softix.com"
+    },
+    "city": "Wrocław",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2016-01-01"
+  },
+  {
+    "id": "ea3db31e4a564e3b",
+    "beneficiary": {
+      "name": "Laurin Wiechmann",
+      "email": "Laurin.Wiechmann@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2017-12-01"
+  },
+  {
+    "id": "4822e1eafd6b49e9",
+    "beneficiary": {
+      "name": "Alwar Góral",
+      "email": "Alwar.Gral30@softix.pl"
+    },
+    "city": "Wrocław",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-04-01"
+  },
+  {
+    "id": "8ff462e3ce034f6c",
+    "beneficiary": {
+      "name": "Julia Heuvel",
+      "email": "Julia51@softix.nl"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2015-10-01"
+  },
+  {
+    "id": "888294e23ee6419c",
+    "beneficiary": {
+      "name": "Ernesto Hudson",
+      "email": "Ernesto_Hudson@softix.com"
+    },
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-09-01"
+  },
+  {
+    "id": "0bc45c15221b46c3",
+    "beneficiary": {
+      "name": "Tamara Górecki",
+      "email": "tagó@softix.com"
+    },
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2014-09-01"
+  },
+  {
+    "id": "c9ae92943d3c4e3a",
+    "beneficiary": {
+      "name": "Jamie McClure",
+      "email": "Jamie_McClure@softix.us"
+    },
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-07-01"
+  },
+  {
+    "id": "2c4d12fab0164899",
+    "beneficiary": {
+      "name": "Baptiste Lefebvre",
+      "email": "bale@softix.com"
+    },
+    "city": "Paris",
+    "country": "France",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-05-01"
+  },
+  {
+    "id": "11b889ffa05641bf",
+    "beneficiary": {
+      "name": "Laurin Wiechmann",
+      "email": "Laurin.Wiechmann@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-10-01"
+  },
+  {
+    "id": "6414bfaf36414b37",
+    "beneficiary": {
+      "name": "Mikail Balzer",
+      "email": "Mikail_Balzer37@softix.com"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2018-01-01"
+  },
+  {
+    "id": "283249f201a4468f",
+    "beneficiary": {
+      "name": "Lilou Dubois",
+      "email": "Lilou4@softix.fr"
+    },
+    "city": "Lille",
+    "country": "France",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2017-02-01"
+  },
+  {
+    "id": "53e4aa32f24f489b",
+    "beneficiary": {
+      "name": "Sönke Wittich",
+      "email": "söwi@softix.de"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2016-06-01"
+  },
+  {
+    "id": "2d642a3758434975",
+    "beneficiary": {
+      "name": "Krzysztof Kot",
+      "email": "krko@softix.com"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-01-01"
+  },
+  {
+    "id": "f1bc46c057bf465b",
+    "beneficiary": {
+      "name": "Pauline Fleury",
+      "email": "pafl@softix.fr"
+    },
+    "city": "Paris",
+    "country": "France",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2018-01-01"
+  },
+  {
+    "id": "dccdc4fb87e84ce1",
+    "beneficiary": {
+      "name": "Maud Hoek",
+      "email": "maho@softix.nl"
+    },
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-06-01"
+  },
+  {
+    "id": "3867bfb73abb4a3a",
+    "beneficiary": {
+      "name": "Leon Marczak",
+      "email": "Leon.Marczak@softix.com"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2014-09-01"
+  },
+  {
+    "id": "3f74f218376b4c28",
+    "beneficiary": {
+      "name": "Marissa Hess",
+      "email": "Marissa.Hess@softix.com"
+    },
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-01-01"
+  },
+  {
+    "id": "26a4b2b0f9eb4c2f",
+    "beneficiary": {
+      "name": "Ambroży Majcher",
+      "email": "amma@softix.com"
+    },
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2015-10-01"
+  },
+  {
+    "id": "1467963c9a2d487f",
+    "beneficiary": {
+      "name": "Nestore Caputo",
+      "email": "neca@softix.it"
+    },
+    "city": "Roma",
+    "country": "Italy",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2016-09-01"
+  },
+  {
+    "id": "b9bd878e66a44b32",
+    "beneficiary": {
+      "name": "Lucas Leeuwen",
+      "email": "lule@softix.com"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-01-01"
+  },
+  {
+    "id": "ca84c2d3accc4ad6",
+    "beneficiary": {
+      "name": "Quarto Russo",
+      "email": "Quarto61@softix.it"
+    },
+    "city": "Roma",
+    "country": "Italy",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2018-04-01"
+  },
+  {
+    "id": "84097d6eb0dc46f1",
+    "beneficiary": {
+      "name": "Justin Brehmer",
+      "email": "jubr@softix.com"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2016-10-01"
+  },
+  {
+    "id": "3200e2ab55704448",
+    "beneficiary": {
+      "name": "Kevin Hoek",
+      "email": "Kevin.Hoek86@softix.com"
+    },
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-07-01"
+  },
+  {
+    "id": "c9123e87b8564090",
+    "beneficiary": {
+      "name": "Alwar Góral",
+      "email": "Alwar.Gral30@softix.pl"
+    },
+    "city": "Wrocław",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2015-06-01"
+  },
+  {
+    "id": "fb900196e8b740cd",
+    "beneficiary": {
+      "name": "Xenia Baumann",
+      "email": "xeba@softix.de"
+    },
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-06-01"
+  },
+  {
+    "id": "29b758bac2b3473d",
+    "beneficiary": {
+      "name": "Sean Bieler",
+      "email": "Sean_Bieler67@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-04-01"
+  },
+  {
+    "id": "52fb8d71a7f14d08",
+    "beneficiary": {
+      "name": "Lisa Smit",
+      "email": "Lisa.Smit80@softix.nl"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2015-05-01"
+  },
+  {
+    "id": "e61750172ed14c81",
+    "beneficiary": {
+      "name": "Walgierz Czajka",
+      "email": "wacz@softix.pl"
+    },
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-11-01"
+  },
+  {
+    "id": "4cb8fc53e3754b67",
+    "beneficiary": {
+      "name": "Marie Aubert",
+      "email": "Marie48@softix.fr"
+    },
+    "city": "Rennes",
+    "country": "France",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-03-01"
+  },
+  {
+    "id": "27f60114a5244c1a",
+    "beneficiary": {
+      "name": "Anabel Koob",
+      "email": "anko@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-01-01"
+  },
+  {
+    "id": "4a33c56ca9fb4acf",
+    "beneficiary": {
+      "name": "Gloria Carrasco",
+      "email": "glca@softix.es"
+    },
+    "city": "Madrid",
+    "country": "Spain",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2018-04-01"
+  },
+  {
+    "id": "dc4fb9ed794348b2",
+    "beneficiary": {
+      "name": "Randolf Ciesielski",
+      "email": "raci@softix.pl"
+    },
+    "city": "Warszawa",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2016-11-01"
+  },
+  {
+    "id": "eb34aafba351476d",
+    "beneficiary": {
+      "name": "Anabel Koob",
+      "email": "anko@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2014-12-01"
+  },
+  {
+    "id": "b648408470ae46c5",
+    "beneficiary": {
+      "name": "Marius Frenzel",
+      "email": "mafr@softix.com"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-04-01"
+  },
+  {
+    "id": "304592fad9494c89",
+    "beneficiary": {
+      "name": "Rick Veen",
+      "email": "rive@softix.nl"
+    },
+    "city": "Den Haag",
+    "country": "Netherlands",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2017-11-01"
+  },
+  {
+    "id": "43ce57668db94627",
+    "beneficiary": {
+      "name": "Veronika Krieger",
+      "email": "Veronika42@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-05-01"
+  },
+  {
+    "id": "a4884dab2d7a40b6",
+    "beneficiary": {
+      "name": "Eva Maas",
+      "email": "Eva.Maas94@softix.com"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2017-09-01"
+  },
+  {
+    "id": "def8dcf4a076431b",
+    "beneficiary": {
+      "name": "Nick Bakker",
+      "email": "Nick_Bakker68@softix.com"
+    },
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2016-10-01"
+  },
+  {
+    "id": "88f4bff2e4634b55",
+    "beneficiary": {
+      "name": "Kiara Feuerbach",
+      "email": "Kiara_Feuerbach81@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-05-01"
+  },
+  {
+    "id": "e5497feeca434be5",
+    "beneficiary": {
+      "name": "Arthur Fontaine",
+      "email": "Arthur.Fontaine48@softix.fr"
+    },
+    "city": "Rennes",
+    "country": "France",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2015-01-01"
+  },
+  {
+    "id": "60e55b64370144fe",
+    "beneficiary": {
+      "name": "Lilian Marten",
+      "email": "Lilian_Marten24@softix.com"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2015-05-01"
+  },
+  {
+    "id": "f7fe4eb3803247a6",
+    "beneficiary": {
+      "name": "Thijs Beek",
+      "email": "Thijs46@softix.com"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2016-01-01"
+  },
+  {
+    "id": "0bb1d1e3181645e8",
+    "beneficiary": {
+      "name": "Camille Leclercq",
+      "email": "cale@softix.fr"
+    },
+    "city": "Brest",
+    "country": "France",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-03-01"
+  },
+  {
+    "id": "97f4229605484ce4",
+    "beneficiary": {
+      "name": "Benjamin Le roux",
+      "email": "Benjamin98@softix.fr"
+    },
+    "city": "Brest",
+    "country": "France",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2018-05-01"
+  },
+  {
+    "id": "47c99552b2604ab6",
+    "beneficiary": {
+      "name": "Carlo Kette",
+      "email": "cake@softix.de"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2015-07-01"
+  },
+  {
+    "id": "ac5bb25a3dfe43d8",
+    "beneficiary": {
+      "name": "Smilla Kleinert",
+      "email": "smkl@softix.de"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2016-10-01"
+  },
+  {
+    "id": "68bdcae455f34116",
+    "beneficiary": {
+      "name": "Cheyanne Hessel",
+      "email": "Cheyanne58@softix.com"
+    },
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-10-01"
+  },
+  {
+    "id": "cdd14cc1ff764a6d",
+    "beneficiary": {
+      "name": "Kiara Feuerbach",
+      "email": "Kiara_Feuerbach81@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2015-07-01"
+  },
+  {
+    "id": "ff33f7f977754c8b",
+    "beneficiary": {
+      "name": "Jannes Karus",
+      "email": "jaka@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2016-05-01"
+  },
+  {
+    "id": "0ddc54602ea34187",
+    "beneficiary": {
+      "name": "Władysław Olejniczak",
+      "email": "Wadysaw45@softix.com"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-01-01"
+  },
+  {
+    "id": "ef2c0012f51240d7",
+    "beneficiary": {
+      "name": "Jeremi Skowroński",
+      "email": "Jeremi_Skowroski@softix.com"
+    },
+    "city": "Warszawa",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-05-01"
+  },
+  {
+    "id": "a3ca1f280e3f4032",
+    "beneficiary": {
+      "name": "Makary Miller",
+      "email": "mami@softix.pl"
+    },
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-03-01"
+  },
+  {
+    "id": "e2e9959318b0489e",
+    "beneficiary": {
+      "name": "Thijs Wal",
+      "email": "thwa@softix.com"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2017-09-01"
+  },
+  {
+    "id": "23e0f391be924883",
+    "beneficiary": {
+      "name": "Alma Lichtl",
+      "email": "alli@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2016-07-01"
+  },
+  {
+    "id": "dbd3ae5b91484a81",
+    "beneficiary": {
+      "name": "Sanne Groot",
+      "email": "sagr@softix.com"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2016-12-01"
+  },
+  {
+    "id": "604086caf38444eb",
+    "beneficiary": {
+      "name": "Xenia Baumann",
+      "email": "xeba@softix.de"
+    },
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2016-01-01"
+  },
+  {
+    "id": "c792fff1877d468d",
+    "beneficiary": {
+      "name": "Kyra Trautmann",
+      "email": "Kyra_Trautmann@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-04-01"
+  },
+  {
+    "id": "022b82bfbee14a81",
+    "beneficiary": {
+      "name": "Johannes Jacobs",
+      "email": "joja@softix.com"
+    },
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2015-05-01"
+  },
+  {
+    "id": "1384dc0a819c43ef",
+    "beneficiary": {
+      "name": "Franz Kulas",
+      "email": "frku@softix.com"
+    },
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-07-01"
+  },
+  {
+    "id": "bb75841e75e7425c",
+    "beneficiary": {
+      "name": "Mikołaj Wnuk",
+      "email": "miwn@softix.pl"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2015-05-01"
+  },
+  {
+    "id": "cebe62b56f4e45f6",
+    "beneficiary": {
+      "name": "Lindsay Karhoff",
+      "email": "Lindsay45@softix.com"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2015-11-01"
+  },
+  {
+    "id": "dee171b16bc345c7",
+    "beneficiary": {
+      "name": "Jolie Ritter",
+      "email": "jori@softix.com"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2017-10-01"
+  },
+  {
+    "id": "013e9becfecc4cfe",
+    "beneficiary": {
+      "name": "Rosalyn Medhurst",
+      "email": "rome@softix.com"
+    },
+    "city": "Milpitas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2014-07-01"
+  },
+  {
+    "id": "52b9be62b7de4553",
+    "beneficiary": {
+      "name": "Lucie Dumas",
+      "email": "ludu@softix.fr"
+    },
+    "city": "Lille",
+    "country": "France",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-07-01"
+  },
+  {
+    "id": "0566adc607e44190",
+    "beneficiary": {
+      "name": "Johanna Schwalm",
+      "email": "Johanna.Schwalm@softix.com"
+    },
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2017-07-01"
+  },
+  {
+    "id": "95433ac648f7405f",
+    "beneficiary": {
+      "name": "Sander Berg",
+      "email": "Sander_Berg38@softix.nl"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-04-01"
+  },
+  {
+    "id": "dd359d44c0f64a84",
+    "beneficiary": {
+      "name": "Thomas Graaf",
+      "email": "Thomas.Graaf63@softix.nl"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-04-01"
+  },
+  {
+    "id": "384e4ebaeeef4c2a",
+    "beneficiary": {
+      "name": "Morton Kreiger",
+      "email": "mokr@softix.uk"
+    },
+    "city": "London",
+    "country": "United Kingdom",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-01-01"
+  },
+  {
+    "id": "9f94ff7a767946f8",
+    "beneficiary": {
+      "name": "Adriano Brix",
+      "email": "adbr@softix.com"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-04-01"
+  },
+  {
+    "id": "338c64e001364cd7",
+    "beneficiary": {
+      "name": "Lisa Veen",
+      "email": "live@softix.nl"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2017-11-01"
+  },
+  {
+    "id": "2fc756bfbbef4d9b",
+    "beneficiary": {
+      "name": "Angelique Faller",
+      "email": "Angelique_Faller@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2018-02-01"
+  },
+  {
+    "id": "bf6e03dda0b04640",
+    "beneficiary": {
+      "name": "Mélissa Guillaume",
+      "email": "Mlissa_Guillaume6@softix.com"
+    },
+    "city": "Brest",
+    "country": "France",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-08-01"
+  },
+  {
+    "id": "1900d6a1f5c546a8",
+    "beneficiary": {
+      "name": "Cristian Rosas",
+      "email": "Cristian.Rosas68@softix.es"
+    },
+    "city": "Madrid",
+    "country": "Spain",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2017-09-01"
+  },
+  {
+    "id": "9afd98c38feb452d",
+    "beneficiary": {
+      "name": "Janina Andrzejczak",
+      "email": "jaan@softix.pl"
+    },
+    "city": "Warszawa",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-12-01"
+  },
+  {
+    "id": "df100835a678441c",
+    "beneficiary": {
+      "name": "Ruben Smits",
+      "email": "rusm@softix.nl"
+    },
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2016-06-01"
+  },
+  {
+    "id": "b6ebe7442d41420b",
+    "beneficiary": {
+      "name": "Manuel Schönball",
+      "email": "Manuel.Schnball@softix.com"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2017-03-01"
+  },
+  {
+    "id": "0d559a58378c46ad",
+    "beneficiary": {
+      "name": "Felicita Bayer",
+      "email": "feba@softix.com"
+    },
+    "city": "Bracknell",
+    "country": "United Kingdom",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2015-11-01"
+  },
+  {
+    "id": "b64f5db5c8bc4f0f",
+    "beneficiary": {
+      "name": "Marilu Fonseca",
+      "email": "Marilu_Fonseca@softix.com"
+    },
+    "city": "Madrid",
+    "country": "Spain",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-04-01"
+  },
+  {
+    "id": "163262c3a9b84090",
+    "beneficiary": {
+      "name": "Lea Szatkowski",
+      "email": "Lea_Szatkowski69@softix.pl"
+    },
+    "city": "Radom",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2014-05-01"
+  },
+  {
+    "id": "8a38e85b2008402b",
+    "beneficiary": {
+      "name": "Ricardo Bermúdez",
+      "email": "ribe@softix.com"
+    },
+    "city": "Madrid",
+    "country": "Spain",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2018-03-01"
+  },
+  {
+    "id": "dca8812b0859400e",
+    "beneficiary": {
+      "name": "Victor Lucas",
+      "email": "Victor5@softix.com"
+    },
+    "city": "Lille",
+    "country": "France",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2015-08-01"
+  },
+  {
+    "id": "12906e4c4ddc48c2",
+    "beneficiary": {
+      "name": "Thomas Lemaire",
+      "email": "thle@softix.fr"
+    },
+    "city": "Rennes",
+    "country": "France",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-01-01"
+  },
+  {
+    "id": "4ad1aed8a1ce450c",
+    "beneficiary": {
+      "name": "Clémence Fournier",
+      "email": "clfo@softix.com"
+    },
+    "city": "Paris",
+    "country": "France",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-01-01"
+  },
+  {
+    "id": "f2d9de7f94e6418a",
+    "beneficiary": {
+      "name": "Iris Groot",
+      "email": "irgr@softix.nl"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2016-12-01"
+  },
+  {
+    "id": "6e7f260a1cb0461d",
+    "beneficiary": {
+      "name": "Rhett MacGyver",
+      "email": "rhma@softix.us"
+    },
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-01-01"
+  },
+  {
+    "id": "de4b4ca57aa54bc2",
+    "beneficiary": {
+      "name": "Kornel Baranowski",
+      "email": "Kornel.Baranowski23@softix.com"
+    },
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-09-01"
+  },
+  {
+    "id": "6684339231f94025",
+    "beneficiary": {
+      "name": "Kevin Hoek",
+      "email": "Kevin.Hoek86@softix.com"
+    },
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2016-03-01"
+  },
+  {
+    "id": "1a91843d547c46e1",
+    "beneficiary": {
+      "name": "Savanna Spencer",
+      "email": "Savanna.Spencer59@softix.com"
+    },
+    "city": "Bracknell",
+    "country": "United Kingdom",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2015-05-01"
+  },
+  {
+    "id": "2f544822f7864983",
+    "beneficiary": {
+      "name": "Carmen Valadez",
+      "email": "cava@softix.com"
+    },
+    "city": "Madrid",
+    "country": "Spain",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2015-08-01"
+  },
+  {
+    "id": "dcbaa0bca58e4594",
+    "beneficiary": {
+      "name": "Amber Haan",
+      "email": "amha@softix.nl"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2016-07-01"
+  },
+  {
+    "id": "825ed2401a954c5c",
+    "beneficiary": {
+      "name": "Angelina Steuk",
+      "email": "anst@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2018-04-01"
+  },
+  {
+    "id": "87363eb6703a4df3",
+    "beneficiary": {
+      "name": "Kleopatra Krupa",
+      "email": "klkr@softix.pl"
+    },
+    "city": "Wrocław",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2015-05-01"
+  },
+  {
+    "id": "240e0fcecae54b03",
+    "beneficiary": {
+      "name": "Lotte Vermeulen",
+      "email": "Lotte.Vermeulen28@softix.nl"
+    },
+    "city": "Den Haag",
+    "country": "Netherlands",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2014-09-01"
+  },
+  {
+    "id": "0f4a24c0af654340",
+    "beneficiary": {
+      "name": "Dorothea Biesenbach",
+      "email": "dobi@softix.de"
+    },
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2018-03-01"
+  },
+  {
+    "id": "f8fd9decd4794c6b",
+    "beneficiary": {
+      "name": "Camille Leclercq",
+      "email": "cale@softix.fr"
+    },
+    "city": "Brest",
+    "country": "France",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-03-01"
+  },
+  {
+    "id": "8d48a44c320a44a0",
+    "beneficiary": {
+      "name": "Helena Lewandowski",
+      "email": "hele@softix.com"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-06-01"
+  },
+  {
+    "id": "7007bea933bb4954",
+    "beneficiary": {
+      "name": "Adriana Armijo",
+      "email": "adar@softix.com"
+    },
+    "city": "Granada",
+    "country": "Spain",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2017-08-01"
+  },
+  {
+    "id": "34da073a1e0a483e",
+    "beneficiary": {
+      "name": "Marta Iwański",
+      "email": "Marta67@softix.com"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-01-01"
+  },
+  {
+    "id": "208df4415b704802",
+    "beneficiary": {
+      "name": "Maxima Abt",
+      "email": "Maxima37@softix.com"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2018-06-01"
+  },
+  {
+    "id": "a9a32e731e604d35",
+    "beneficiary": {
+      "name": "Javier Escamilla",
+      "email": "Javier81@softix.es"
+    },
+    "city": "Madrid",
+    "country": "Spain",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-01-01"
+  },
+  {
+    "id": "1626b6c12d49405a",
+    "beneficiary": {
+      "name": "Juana Von",
+      "email": "Juana.Von@softix.com"
+    },
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2015-12-01"
+  },
+  {
+    "id": "f0e080320d1e416f",
+    "beneficiary": {
+      "name": "Maëlle Vidal",
+      "email": "Malle_Vidal@softix.fr"
+    },
+    "city": "Rennes",
+    "country": "France",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-03-01"
+  },
+  {
+    "id": "f2c737c463a34c34",
+    "beneficiary": {
+      "name": "Kayli Goldner",
+      "email": "kago@softix.uk"
+    },
+    "city": "Bracknell",
+    "country": "United Kingdom",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-12-01"
+  },
+  {
+    "id": "388905b2f9874933",
+    "beneficiary": {
+      "name": "Ambroży Szymczyk",
+      "email": "amsz@softix.pl"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-08-01"
+  },
+  {
+    "id": "5f8c05f126674d3d",
+    "beneficiary": {
+      "name": "Ruben Bakker",
+      "email": "Ruben32@softix.com"
+    },
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2016-03-01"
+  },
+  {
+    "id": "f2285b9a836144af",
+    "beneficiary": {
+      "name": "Alicia Marie",
+      "email": "alma@softix.fr"
+    },
+    "city": "Brest",
+    "country": "France",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2015-12-01"
+  },
+  {
+    "id": "af7284bfb07d4bbc",
+    "beneficiary": {
+      "name": "Louisa Weyel",
+      "email": "lowe@softix.de"
+    },
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2013-08-01"
+  },
+  {
+    "id": "d9f4ad053bd84ca0",
+    "beneficiary": {
+      "name": "Ömer Itt",
+      "email": "mer.Itt@softix.com"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-04-01"
+  },
+  {
+    "id": "2cf5078ebc384b56",
+    "beneficiary": {
+      "name": "Roksana Piłat",
+      "email": "Roksana16@softix.pl"
+    },
+    "city": "Radom",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-05-01"
+  },
+  {
+    "id": "80d8a20095f04ed3",
+    "beneficiary": {
+      "name": "Ksawera Włodarczyk",
+      "email": "Ksawera67@softix.com"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-01-01"
+  },
+  {
+    "id": "6659cd36f5654a6f",
+    "beneficiary": {
+      "name": "Shawn Sanford",
+      "email": "shsa@softix.com"
+    },
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-03-01"
+  },
+  {
+    "id": "facc1893796049d8",
+    "beneficiary": {
+      "name": "Nina Linnenbaum",
+      "email": "Nina_Linnenbaum@softix.de"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-01-01"
+  },
+  {
+    "id": "9c8f74c0acb742db",
+    "beneficiary": {
+      "name": "Anaïs Charpentier",
+      "email": "Anas_Charpentier@softix.fr"
+    },
+    "city": "Rennes",
+    "country": "France",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-08-01"
+  },
+  {
+    "id": "989758be11b342fc",
+    "beneficiary": {
+      "name": "Niels Boer",
+      "email": "nibo@softix.com"
+    },
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2016-04-01"
+  },
+  {
+    "id": "36d8fb19e9cd413a",
+    "beneficiary": {
+      "name": "Lucas Dijkstra",
+      "email": "ludi@softix.nl"
+    },
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-03-01"
+  },
+  {
+    "id": "fd4f9f8217a44288",
+    "beneficiary": {
+      "name": "Patrick Blochwitz",
+      "email": "pabl@softix.de"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-11-01"
+  },
+  {
+    "id": "c3efa238d6be4a7b",
+    "beneficiary": {
+      "name": "Lidia Czyż",
+      "email": "licz@softix.pl"
+    },
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-08-01"
+  },
+  {
+    "id": "bc0a69881beb4a0a",
+    "beneficiary": {
+      "name": "Etienne Naubert",
+      "email": "Etienne.Naubert@softix.de"
+    },
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2014-10-01"
+  },
+  {
+    "id": "829c67ed7fb2449b",
+    "beneficiary": {
+      "name": "Amira Einert",
+      "email": "Amira34@softix.com"
+    },
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2014-01-01"
+  },
+  {
+    "id": "bb4e37f6fbc34e19",
+    "beneficiary": {
+      "name": "Patrick Blochwitz",
+      "email": "pabl@softix.de"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2014-08-01"
+  },
+  {
+    "id": "5f7528296d584163",
+    "beneficiary": {
+      "name": "Marcel Walsh",
+      "email": "mawa@softix.us"
+    },
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-05-01"
+  },
+  {
+    "id": "316d8ee6a7304aac",
+    "beneficiary": {
+      "name": "Dudley Frami",
+      "email": "dufr@softix.com"
+    },
+    "city": "San Francisco",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-08-01"
+  },
+  {
+    "id": "5f6c1aef87e942c9",
+    "beneficiary": {
+      "name": "Antwan Kunze",
+      "email": "Antwan.Kunze16@softix.com"
+    },
+    "city": "Plymouth",
+    "country": "United Kingdom",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-06-01"
+  },
+  {
+    "id": "6032c0c849ba46d0",
+    "beneficiary": {
+      "name": "Sem Meer",
+      "email": "Sem25@softix.com"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-05-01"
+  },
+  {
+    "id": "b6354b4e72864b45",
+    "beneficiary": {
+      "name": "Zoe Prevost",
+      "email": "zopr@softix.com"
+    },
+    "city": "Paris",
+    "country": "France",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2015-02-01"
+  },
+  {
+    "id": "85334a6b2f12474a",
+    "beneficiary": {
+      "name": "Mathis Louis",
+      "email": "malo@softix.com"
+    },
+    "city": "Brest",
+    "country": "France",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-02-01"
+  },
+  {
+    "id": "c93432da63c64a11",
+    "beneficiary": {
+      "name": "Sönke Bichler",
+      "email": "söbi@softix.com"
+    },
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2017-07-01"
+  },
+  {
+    "id": "c454692db0df4a34",
+    "beneficiary": {
+      "name": "Enna Berning",
+      "email": "enbe@softix.com"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-10-01"
+  },
+  {
+    "id": "ef0529d1ef654f67",
+    "beneficiary": {
+      "name": "Maxima Hartlieb",
+      "email": "Maxima_Hartlieb@softix.de"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-01-01"
+  },
+  {
+    "id": "6e88d92b13594565",
+    "beneficiary": {
+      "name": "Kevin Jong",
+      "email": "Kevin.Jong@softix.com"
+    },
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2015-02-01"
+  },
+  {
+    "id": "f3aa5968a08e43a2",
+    "beneficiary": {
+      "name": "Georg Neuschwander",
+      "email": "gene@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2017-03-01"
+  },
+  {
+    "id": "86cd5ad806fc4cc5",
+    "beneficiary": {
+      "name": "Korneliusz Herman",
+      "email": "kohe@softix.com"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-03-01"
+  },
+  {
+    "id": "f0fcc8c95aee4d8e",
+    "beneficiary": {
+      "name": "Thaddeus Olson",
+      "email": "thol@softix.com"
+    },
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-01-01"
+  },
+  {
+    "id": "af3ccfb1957d440d",
+    "beneficiary": {
+      "name": "Eleonora Blockhaus",
+      "email": "elbl@softix.com"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-08-01"
+  },
+  {
+    "id": "d5382c3f355444d0",
+    "beneficiary": {
+      "name": "Lucie Dumas",
+      "email": "ludu@softix.fr"
+    },
+    "city": "Lille",
+    "country": "France",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-05-01"
+  },
+  {
+    "id": "dae80b3097184c44",
+    "beneficiary": {
+      "name": "Walgierz Czajka",
+      "email": "wacz@softix.pl"
+    },
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2015-01-01"
+  },
+  {
+    "id": "65cd90be5c5d47fb",
+    "beneficiary": {
+      "name": "Lino Rangen",
+      "email": "Lino_Rangen@softix.com"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-03-01"
+  },
+  {
+    "id": "fb1d2497478b44dd",
+    "beneficiary": {
+      "name": "Marcin Frąckowiak",
+      "email": "Marcin53@softix.pl"
+    },
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-11-01"
+  },
+  {
+    "id": "fd7d2b970a844f27",
+    "beneficiary": {
+      "name": "Fatma Uliczka",
+      "email": "faul@softix.de"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2017-07-01"
+  },
+  {
+    "id": "ab851dd5a2274120",
+    "beneficiary": {
+      "name": "Gordon Haley",
+      "email": "Gordon5@softix.uk"
+    },
+    "city": "Bracknell",
+    "country": "United Kingdom",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-05-01"
+  },
+  {
+    "id": "d8498e9ca2644d2d",
+    "beneficiary": {
+      "name": "Lyn Zschunke",
+      "email": "Lyn13@softix.de"
+    },
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2017-02-01"
+  },
+  {
+    "id": "f6a61e1b45f447af",
+    "beneficiary": {
+      "name": "Johannes Haan",
+      "email": "Johannes_Haan60@softix.nl"
+    },
+    "city": "Den Haag",
+    "country": "Netherlands",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2018-05-01"
+  },
+  {
+    "id": "ca12133f13834658",
+    "beneficiary": {
+      "name": "Josua Wünsche",
+      "email": "Josua.Wnsche40@softix.com"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2017-10-01"
+  },
+  {
+    "id": "cd30b80ffc3d45c6",
+    "beneficiary": {
+      "name": "Tom Jong",
+      "email": "Tom28@softix.com"
+    },
+    "city": "Den Haag",
+    "country": "Netherlands",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-05-01"
+  },
+  {
+    "id": "984428174cc94465",
+    "beneficiary": {
+      "name": "Thomas Graaf",
+      "email": "Thomas.Graaf63@softix.nl"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2014-07-01"
+  },
+  {
+    "id": "efe4de65bd044642",
+    "beneficiary": {
+      "name": "Jeremi Kita",
+      "email": "Jeremi34@softix.pl"
+    },
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2013-10-01"
+  },
+  {
+    "id": "880ab85dbec6486b",
+    "beneficiary": {
+      "name": "Jules Barre",
+      "email": "Jules_Barre75@softix.fr"
+    },
+    "city": "Lille",
+    "country": "France",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2017-03-01"
+  },
+  {
+    "id": "d8ebbeea7de54087",
+    "beneficiary": {
+      "name": "Cecylia Maślanka",
+      "email": "Cecylia.Malanka66@softix.pl"
+    },
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-07-01"
+  },
+  {
+    "id": "773c0368792a42b8",
+    "beneficiary": {
+      "name": "Lue Lehner",
+      "email": "Lue23@softix.com"
+    },
+    "city": "Reading",
+    "country": "United Kingdom",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2015-05-01"
+  },
+  {
+    "id": "49a29968c4ff40cf",
+    "beneficiary": {
+      "name": "Elijah Tress",
+      "email": "Elijah5@softix.com"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-01-01"
+  },
+  {
+    "id": "5e5e1166c52f43dd",
+    "beneficiary": {
+      "name": "Etienne Naubert",
+      "email": "Etienne.Naubert@softix.de"
+    },
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2016-12-01"
+  },
+  {
+    "id": "715206a3cc1d462e",
+    "beneficiary": {
+      "name": "Jairo Durgan",
+      "email": "Jairo17@softix.us"
+    },
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-04-01"
+  },
+  {
+    "id": "97ec76885bcd4096",
+    "beneficiary": {
+      "name": "Susanne Restorff",
+      "email": "Susanne.Restorff@softix.com"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2014-05-01"
+  },
+  {
+    "id": "12a0b70eb15d4787",
+    "beneficiary": {
+      "name": "Felina Mohr",
+      "email": "femo@softix.com"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2014-09-01"
+  },
+  {
+    "id": "77e8a4219705460b",
+    "beneficiary": {
+      "name": "Amabela Pietrzyk",
+      "email": "ampi@softix.pl"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-04-01"
+  },
+  {
+    "id": "5b0c45759b7e4778",
+    "beneficiary": {
+      "name": "Greta Leffler",
+      "email": "grle@softix.uk"
+    },
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-09-01"
+  },
+  {
+    "id": "a4c708311e2f4c85",
+    "beneficiary": {
+      "name": "Ernesto Tillman",
+      "email": "erti@softix.uk"
+    },
+    "city": "London",
+    "country": "United Kingdom",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-09-01"
+  },
+  {
+    "id": "c0f60972c0f045eb",
+    "beneficiary": {
+      "name": "Sander Boer",
+      "email": "Sander.Boer91@softix.com"
+    },
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-01-01"
+  },
+  {
+    "id": "5f5fd760088146ba",
+    "beneficiary": {
+      "name": "Lotte Klein",
+      "email": "Lotte_Klein81@softix.nl"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2015-06-01"
+  },
+  {
+    "id": "de9c9f48eb1a4f16",
+    "beneficiary": {
+      "name": "Maud Maas",
+      "email": "Maud.Maas85@softix.com"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2014-08-01"
+  },
+  {
+    "id": "282d1d66ad834654",
+    "beneficiary": {
+      "name": "August Kaczmarek",
+      "email": "auka@softix.pl"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-11-01"
+  },
+  {
+    "id": "f425797ad1c94c5c",
+    "beneficiary": {
+      "name": "Enna Berning",
+      "email": "enbe@softix.com"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2018-05-01"
+  },
+  {
+    "id": "d7133719dac047d6",
+    "beneficiary": {
+      "name": "Konrad Kufahl",
+      "email": "Konrad26@softix.com"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2016-08-01"
+  },
+  {
+    "id": "76270d3de713442d",
+    "beneficiary": {
+      "name": "Krystel Ferry",
+      "email": "krfe@softix.us"
+    },
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2013-10-01"
+  },
+  {
+    "id": "49e934ab6cc846c5",
+    "beneficiary": {
+      "name": "Romane Richard",
+      "email": "Romane15@softix.com"
+    },
+    "city": "Lille",
+    "country": "France",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-01-01"
+  },
+  {
+    "id": "fa2fb39f8b5a4d09",
+    "beneficiary": {
+      "name": "Riana Nicolay",
+      "email": "rini@softix.com"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-04-01"
+  },
+  {
+    "id": "da400908a14a44e1",
+    "beneficiary": {
+      "name": "Eustracjusz Niewiadomski",
+      "email": "euni@softix.pl"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-03-01"
+  },
+  {
+    "id": "101ba4341d474edc",
+    "beneficiary": {
+      "name": "Michał Adamus",
+      "email": "miad@softix.pl"
+    },
+    "city": "Warszawa",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2016-05-01"
+  },
+  {
+    "id": "d617eb2ea0614d62",
+    "beneficiary": {
+      "name": "Renata Kaczorowski",
+      "email": "Renata.Kaczorowski@softix.pl"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-09-01"
+  },
+  {
+    "id": "b41f89d825e54791",
+    "beneficiary": {
+      "name": "Stijn Ven",
+      "email": "Stijn.Ven@softix.nl"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-10-01"
+  },
+  {
+    "id": "0b50a69ee0a545eb",
+    "beneficiary": {
+      "name": "Nazariusz Lipski",
+      "email": "Nazariusz_Lipski@softix.pl"
+    },
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2014-02-01"
+  },
+  {
+    "id": "fb7fc7f490534cc2",
+    "beneficiary": {
+      "name": "Jolie Ritter",
+      "email": "jori@softix.com"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2015-07-01"
+  },
+  {
+    "id": "a5eaba5e07d245e5",
+    "beneficiary": {
+      "name": "Jayden Leeuwen",
+      "email": "jale@softix.com"
+    },
+    "city": "Den Haag",
+    "country": "Netherlands",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-09-01"
+  },
+  {
+    "id": "7be69af4150f4fc2",
+    "beneficiary": {
+      "name": "Osmund Molenda",
+      "email": "Osmund80@softix.com"
+    },
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-07-01"
+  },
+  {
+    "id": "ca8de0c18b904b19",
+    "beneficiary": {
+      "name": "Sander Berg",
+      "email": "Sander_Berg38@softix.nl"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2015-12-01"
+  },
+  {
+    "id": "ad56ff0f62244365",
+    "beneficiary": {
+      "name": "Baptiste Lefebvre",
+      "email": "bale@softix.com"
+    },
+    "city": "Paris",
+    "country": "France",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2016-07-01"
+  },
+  {
+    "id": "7da7cd1e2dc148df",
+    "beneficiary": {
+      "name": "Xenia Klinger",
+      "email": "Xenia_Klinger@softix.de"
+    },
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-10-01"
+  },
+  {
+    "id": "45f9738fe4364733",
+    "beneficiary": {
+      "name": "Dorotea Zamora",
+      "email": "Dorotea.Zamora23@softix.com"
+    },
+    "city": "Granada",
+    "country": "Spain",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2013-09-01"
+  },
+  {
+    "id": "a5e605070af14b25",
+    "beneficiary": {
+      "name": "Paul Pöge",
+      "email": "papö@softix.com"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2018-03-01"
+  },
+  {
+    "id": "77b0b4228a8946be",
+    "beneficiary": {
+      "name": "Quentin Schneider",
+      "email": "Quentin_Schneider@softix.fr"
+    },
+    "city": "Paris",
+    "country": "France",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-03-01"
+  },
+  {
+    "id": "b1bb9e14e2804ce6",
+    "beneficiary": {
+      "name": "Terencjusz Marciniak",
+      "email": "Terencjusz.Marciniak2@softix.com"
+    },
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-05-01"
+  },
+  {
+    "id": "f0c61b4b94114237",
+    "beneficiary": {
+      "name": "Ksenia Kuliński",
+      "email": "ksku@softix.com"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-09-01"
+  },
+  {
+    "id": "2fecc70f673848d4",
+    "beneficiary": {
+      "name": "Ernesto Águilar",
+      "email": "erág@softix.com"
+    },
+    "city": "Madrid",
+    "country": "Spain",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-10-01"
+  },
+  {
+    "id": "3f507d5f64074043",
+    "beneficiary": {
+      "name": "Sander Boer",
+      "email": "Sander.Boer91@softix.com"
+    },
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2017-01-01"
+  },
+  {
+    "id": "ebf827ec0bd54f2a",
+    "beneficiary": {
+      "name": "Milla Flore",
+      "email": "Milla_Flore@softix.com"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-03-01"
+  },
+  {
+    "id": "93420b5d28b5495d",
+    "beneficiary": {
+      "name": "Luis Gürbig",
+      "email": "Luis.Grbig74@softix.de"
+    },
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2017-07-01"
+  },
+  {
+    "id": "73b935451986476e",
+    "beneficiary": {
+      "name": "Lola Bertrand",
+      "email": "lobe@softix.com"
+    },
+    "city": "Rennes",
+    "country": "France",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2016-12-01"
+  },
+  {
+    "id": "9b11333021194984",
+    "beneficiary": {
+      "name": "Lars Berg",
+      "email": "labe@softix.com"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2015-04-01"
+  },
+  {
+    "id": "02e66d4969824bc6",
+    "beneficiary": {
+      "name": "Anaïs Charpentier",
+      "email": "Anas_Charpentier@softix.fr"
+    },
+    "city": "Rennes",
+    "country": "France",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2017-06-01"
+  },
+  {
+    "id": "3a966c23a02649c3",
+    "beneficiary": {
+      "name": "Kleopatra Matusiak",
+      "email": "Kleopatra.Matusiak@softix.pl"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-06-01"
+  },
+  {
+    "id": "ac3b8c8f22e14c02",
+    "beneficiary": {
+      "name": "Emilia Białas",
+      "email": "embi@softix.com"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2014-09-01"
+  },
+  {
+    "id": "c5830a845c414a41",
+    "beneficiary": {
+      "name": "Thore Steding",
+      "email": "Thore_Steding@softix.com"
+    },
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-12-01"
+  },
+  {
+    "id": "cb728ef815aa445b",
+    "beneficiary": {
+      "name": "Koralia Gajewski",
+      "email": "koga@softix.com"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-03-01"
+  },
+  {
+    "id": "b135696decec4a71",
+    "beneficiary": {
+      "name": "Grzegorz Witkowski",
+      "email": "Grzegorz_Witkowski28@softix.com"
+    },
+    "city": "Warszawa",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-11-01"
+  },
+  {
+    "id": "f0341cedaab348d9",
+    "beneficiary": {
+      "name": "Lisa Berg",
+      "email": "libe@softix.nl"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2016-11-01"
+  },
+  {
+    "id": "7da4d4de61374c79",
+    "beneficiary": {
+      "name": "Mathis Louis",
+      "email": "malo@softix.com"
+    },
+    "city": "Brest",
+    "country": "France",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2016-12-01"
+  },
+  {
+    "id": "54e76af4793e4a6c",
+    "beneficiary": {
+      "name": "Rowan Schneider",
+      "email": "Rowan.Schneider@softix.com"
+    },
+    "city": "Bracknell",
+    "country": "United Kingdom",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-11-01"
+  },
+  {
+    "id": "b917da8a00f94933",
+    "beneficiary": {
+      "name": "Lotte Vermeulen",
+      "email": "Lotte.Vermeulen28@softix.nl"
+    },
+    "city": "Den Haag",
+    "country": "Netherlands",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2015-11-01"
+  },
+  {
+    "id": "af19947d1cbe4a6a",
+    "beneficiary": {
+      "name": "Lucas Noel",
+      "email": "luno@softix.fr"
+    },
+    "city": "Rennes",
+    "country": "France",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2017-12-01"
+  },
+  {
+    "id": "2efeecbfa2e44495",
+    "beneficiary": {
+      "name": "Johanna Schwalm",
+      "email": "Johanna.Schwalm@softix.com"
+    },
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-06-01"
+  },
+  {
+    "id": "feaff8a2166a46f4",
+    "beneficiary": {
+      "name": "Willow Rolfson",
+      "email": "wiro@softix.uk"
+    },
+    "city": "Bracknell",
+    "country": "United Kingdom",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-10-01"
+  },
+  {
+    "id": "632cad6d2faf4a29",
+    "beneficiary": {
+      "name": "Oskar Suski",
+      "email": "ossu@softix.com"
+    },
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-01-01"
+  },
+  {
+    "id": "8a2a1cbe00de40c7",
+    "beneficiary": {
+      "name": "Joanna Iwański",
+      "email": "joiw@softix.pl"
+    },
+    "city": "Wrocław",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-07-01"
+  },
+  {
+    "id": "a0739817e08f42ad",
+    "beneficiary": {
+      "name": "Orestes Nawrot",
+      "email": "Orestes_Nawrot57@softix.pl"
+    },
+    "city": "Wrocław",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-12-01"
+  },
+  {
+    "id": "f67bed211413437b",
+    "beneficiary": {
+      "name": "Filipa Kowalik",
+      "email": "fiko@softix.com"
+    },
+    "city": "Wrocław",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2014-12-01"
+  },
+  {
+    "id": "ac300b27e1894396",
+    "beneficiary": {
+      "name": "Felina Mohr",
+      "email": "femo@softix.com"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-04-01"
+  },
+  {
+    "id": "cb9dff1f38c94b05",
+    "beneficiary": {
+      "name": "Léa Paris",
+      "email": "lépa@softix.com"
+    },
+    "city": "Lille",
+    "country": "France",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-04-01"
+  },
+  {
+    "id": "577ffcf7fb4e4752",
+    "beneficiary": {
+      "name": "Leana Lichtenfeld",
+      "email": "Leana_Lichtenfeld@softix.de"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2016-11-01"
+  },
+  {
+    "id": "ea7683a9ef5b46fd",
+    "beneficiary": {
+      "name": "Jimmy Dombrowski",
+      "email": "jido@softix.com"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-02-01"
+  },
+  {
+    "id": "bfb3cd2154f942be",
+    "beneficiary": {
+      "name": "Vesta Ruecker",
+      "email": "Vesta.Ruecker58@softix.com"
+    },
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2015-09-01"
+  },
+  {
+    "id": "87734bd379c3414e",
+    "beneficiary": {
+      "name": "Zoe Collet",
+      "email": "zoco@softix.fr"
+    },
+    "city": "Paris",
+    "country": "France",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2018-06-01"
+  },
+  {
+    "id": "7d06dace60984614",
+    "beneficiary": {
+      "name": "Orville Aufderhar",
+      "email": "Orville77@softix.com"
+    },
+    "city": "San Francisco",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-08-01"
+  },
+  {
+    "id": "49601feef7d6490b",
+    "beneficiary": {
+      "name": "Anouk Schouten",
+      "email": "Anouk30@softix.com"
+    },
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-08-01"
+  },
+  {
+    "id": "a6c4bf3faa474151",
+    "beneficiary": {
+      "name": "Reginald Jankowiak",
+      "email": "Reginald14@softix.pl"
+    },
+    "city": "Wrocław",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-07-01"
+  },
+  {
+    "id": "846608fc66764d97",
+    "beneficiary": {
+      "name": "Maja Maliszewski",
+      "email": "Maja_Maliszewski@softix.com"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-02-01"
+  },
+  {
+    "id": "f61d08cbfc3d43ed",
+    "beneficiary": {
+      "name": "Hudson Batz",
+      "email": "Hudson.Batz84@softix.com"
+    },
+    "city": "Milpitas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2015-12-01"
+  },
+  {
+    "id": "750e58f29fd4489f",
+    "beneficiary": {
+      "name": "Jannes Karus",
+      "email": "jaka@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2014-10-01"
+  },
+  {
+    "id": "233bbae2d7a443f0",
+    "beneficiary": {
+      "name": "Reva Zulauf",
+      "email": "Reva_Zulauf@softix.com"
+    },
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-10-01"
+  },
+  {
+    "id": "d00774f74a104852",
+    "beneficiary": {
+      "name": "Ruben Bakker",
+      "email": "Ruben32@softix.com"
+    },
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-12-01"
+  },
+  {
+    "id": "f635009feddd4041",
+    "beneficiary": {
+      "name": "Chantal Feld",
+      "email": "Chantal_Feld37@softix.de"
+    },
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2017-07-01"
+  },
+  {
+    "id": "61082b903f0640f0",
+    "beneficiary": {
+      "name": "Kevin Willems",
+      "email": "Kevin85@softix.nl"
+    },
+    "city": "Den Haag",
+    "country": "Netherlands",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-07-01"
+  },
+  {
+    "id": "d008c21b8186467b",
+    "beneficiary": {
+      "name": "Emil Urbański",
+      "email": "emur@softix.pl"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-07-01"
+  },
+  {
+    "id": "7b95960d359741a8",
+    "beneficiary": {
+      "name": "Alana Kleiss",
+      "email": "Alana.Kleiss62@softix.com"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-01-01"
+  },
+  {
+    "id": "fd6197f878fb4d66",
+    "beneficiary": {
+      "name": "Carina Finke",
+      "email": "Carina_Finke13@softix.de"
+    },
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2018-03-01"
+  },
+  {
+    "id": "a7f92a5582c645ab",
+    "beneficiary": {
+      "name": "Alina Grzesik",
+      "email": "algr@softix.pl"
+    },
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2013-09-01"
+  },
+  {
+    "id": "fb4fa70b0f93497e",
+    "beneficiary": {
+      "name": "Pit Marl",
+      "email": "pima@softix.com"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-08-01"
+  },
+  {
+    "id": "00b7c7c97f8d44d3",
+    "beneficiary": {
+      "name": "Quirin Neuendorf",
+      "email": "qune@softix.com"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-12-01"
+  },
+  {
+    "id": "74d9436e4e0d4b19",
+    "beneficiary": {
+      "name": "Elinor O'Conner",
+      "email": "elo'@softix.us"
+    },
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-05-01"
+  },
+  {
+    "id": "b33e0e5ac47344b1",
+    "beneficiary": {
+      "name": "Marek Mikołajczyk",
+      "email": "mami@softix.com"
+    },
+    "city": "Radom",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2014-07-01"
+  },
+  {
+    "id": "1b5d32cd50e04671",
+    "beneficiary": {
+      "name": "Stanisław Kuc",
+      "email": "Stanisaw_Kuc@softix.pl"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-05-01"
+  },
+  {
+    "id": "5efd822c7b824237",
+    "beneficiary": {
+      "name": "Katharina Kustermann",
+      "email": "kaku@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-06-01"
+  },
+  {
+    "id": "eba9936db7274f69",
+    "beneficiary": {
+      "name": "Umut Volkmann",
+      "email": "umvo@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2015-06-01"
+  },
+  {
+    "id": "e915c8edda584e4c",
+    "beneficiary": {
+      "name": "Benedykt Stec",
+      "email": "best@softix.com"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2016-07-01"
+  },
+  {
+    "id": "19894bd088f5431a",
+    "beneficiary": {
+      "name": "Lars Berg",
+      "email": "labe@softix.com"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2018-03-01"
+  },
+  {
+    "id": "59d2fd6704fa4f6a",
+    "beneficiary": {
+      "name": "Mélissa Morel",
+      "email": "Mlissa51@softix.com"
+    },
+    "city": "Rennes",
+    "country": "France",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-08-01"
+  },
+  {
+    "id": "28fbf1700e1b42f6",
+    "beneficiary": {
+      "name": "Antonina Gałka",
+      "email": "Antonina95@softix.pl"
+    },
+    "city": "Łódź",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-10-01"
+  },
+  {
+    "id": "bd2a73a87d964c8e",
+    "beneficiary": {
+      "name": "Florencia Reyes",
+      "email": "flre@softix.com"
+    },
+    "city": "Granada",
+    "country": "Spain",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-04-01"
+  },
+  {
+    "id": "f965532cfe414747",
+    "beneficiary": {
+      "name": "Lino Rangen",
+      "email": "Lino_Rangen@softix.com"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2017-12-01"
+  },
+  {
+    "id": "03b1a60d8f1143e6",
+    "beneficiary": {
+      "name": "Florencia Reyes",
+      "email": "flre@softix.com"
+    },
+    "city": "Granada",
+    "country": "Spain",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2016-06-01"
+  },
+  {
+    "id": "b61d919aad2d432b",
+    "beneficiary": {
+      "name": "Audrey Rogahn",
+      "email": "Audrey_Rogahn77@softix.us"
+    },
+    "city": "San Francisco",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-10-01"
+  },
+  {
+    "id": "5353a0a313214dcb",
+    "beneficiary": {
+      "name": "Gloria Carrasco",
+      "email": "glca@softix.es"
+    },
+    "city": "Madrid",
+    "country": "Spain",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-11-01"
+  },
+  {
+    "id": "58049da6fb4d4202",
+    "beneficiary": {
+      "name": "Isabelle Konopelski",
+      "email": "isko@softix.com"
+    },
+    "city": "Milpitas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-07-01"
+  },
+  {
+    "id": "600178b8e7a046b2",
+    "beneficiary": {
+      "name": "Reed Gerhold",
+      "email": "rege@softix.us"
+    },
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2016-08-01"
+  },
+  {
+    "id": "b2d2801169b842fa",
+    "beneficiary": {
+      "name": "Nyasia O'Conner",
+      "email": "nyo'@softix.us"
+    },
+    "city": "Dallas",
+    "country": "United States of America",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-01-01"
+  },
+  {
+    "id": "ac73a70889554bb1",
+    "beneficiary": {
+      "name": "Anastasio D'angelo",
+      "email": "and'@softix.com"
+    },
+    "city": "Torino",
+    "country": "Italy",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2017-11-01"
+  },
+  {
+    "id": "1ca583b0b8334f30",
+    "beneficiary": {
+      "name": "Marko Alexander",
+      "email": "maal@softix.de"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "lunch-card",
+    "monthlyFee": 250,
+    "subscribedAtDate": "2017-01-01"
+  },
+  {
+    "id": "5e8804ea60f648b4",
+    "beneficiary": {
+      "name": "Enzo Gerard",
+      "email": "enge@softix.fr"
+    },
+    "city": "Paris",
+    "country": "France",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2015-09-01"
+  },
+  {
+    "id": "65d86155235643e6",
+    "beneficiary": {
+      "name": "Marah Prange",
+      "email": "Marah94@softix.com"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-03-01"
+  },
+  {
+    "id": "78359d9e67dc48df",
+    "beneficiary": {
+      "name": "Oliwia Jackowski",
+      "email": "olja@softix.pl"
+    },
+    "city": "Gdańsk",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-05-01"
+  },
+  {
+    "id": "f1998a0bf10749e7",
+    "beneficiary": {
+      "name": "Maëlle Marie",
+      "email": "Malle_Marie@softix.com"
+    },
+    "city": "Lille",
+    "country": "France",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2018-06-01"
+  },
+  {
+    "id": "c0469c6a3398448e",
+    "beneficiary": {
+      "name": "Orestes Jędrzejczyk",
+      "email": "orję@softix.pl"
+    },
+    "city": "Lublin",
+    "country": "Poland",
+    "service": "healthcare",
+    "monthlyFee": 200,
+    "subscribedAtDate": "2017-03-01"
+  },
+  {
+    "id": "f3a41401e8974444",
+    "beneficiary": {
+      "name": "Leona Pflieger",
+      "email": "lepf@softix.de"
+    },
+    "city": "München",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2018-06-01"
+  },
+  {
+    "id": "90bc97ee56aa474f",
+    "beneficiary": {
+      "name": "Pauline Renaud",
+      "email": "Pauline61@softix.com"
+    },
+    "city": "Paris",
+    "country": "France",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2017-11-01"
+  },
+  {
+    "id": "0bd7ea1ff09f407b",
+    "beneficiary": {
+      "name": "Avide Rossetti",
+      "email": "Avide.Rossetti25@softix.com"
+    },
+    "city": "Roma",
+    "country": "Italy",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2018-01-01"
+  },
+  {
+    "id": "c110b937f78c4bc0",
+    "beneficiary": {
+      "name": "Giuliano Orlando",
+      "email": "gior@softix.com"
+    },
+    "city": "Roma",
+    "country": "Italy",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2018-01-01"
+  },
+  {
+    "id": "2371758161144449",
+    "beneficiary": {
+      "name": "Noa Vliet",
+      "email": "novl@softix.com"
+    },
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "service": "cafeteria.io",
+    "monthlyFee": 100,
+    "subscribedAtDate": "2018-01-01"
+  },
+  {
+    "id": "c348c4d646db4c6b",
+    "beneficiary": {
+      "name": "Filip Huckestein",
+      "email": "Filip.Huckestein@softix.de"
+    },
+    "city": "Darmstadt",
+    "country": "Germany",
+    "service": "sport-system",
+    "monthlyFee": 150,
+    "subscribedAtDate": "2017-07-01"
+  }
+]

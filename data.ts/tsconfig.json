@@ -5,6 +5,9 @@
     "moduleResolution": "node",
     "target": "ES6",
     "lib": ["es2018", "dom"],
-    "sourceMap": true
-  }
+    "sourceMap": true,
+  },
+  "exclude": [
+    "node_modules", "src"
+  ]
 }

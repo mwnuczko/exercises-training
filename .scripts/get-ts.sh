@@ -12,13 +12,13 @@ echo -e "\n> preparing 'src'"
 find src -iname "*.js" ! -iname "root.js" -type f -exec ls -ls {} \;
 find src -iname "*.js" ! -iname "root.js" -type f -exec rm -r {} \;
 
-echo -e "\n> removing get-*"
+echo -e "\n> removing .scripts"
 
-rm get-*
+rm -rf .scripts
 
 echo -e "\n> preparing git for snapshot commit"
 
-git add data data.js data.ts src
+git add data data.js data.ts src .scripts
 git status
 
 echo -e "\n> finished (JavaScript removal)"
