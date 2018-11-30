@@ -1,5 +1,5 @@
 import { Employee, Department, Geo, Project, Office, Benefit, Todo, Transaction, Nationality } from './types'
-export { Employee, Department, Geo, Project, Office, Benefit, Todo, Transaction, Nationality } from './types'
+export * from './types'
 
 const benefits: Benefit[] = require('../db/benefits.json')
 const departments: Department[] = require('../db/departments.json')
