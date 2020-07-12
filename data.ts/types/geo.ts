@@ -1,4 +1,4 @@
-import { Nationality } from './shared.d';
+import { Nationality } from './shared';
 
 export type Geo = {
   [nat in Nationality]: string
