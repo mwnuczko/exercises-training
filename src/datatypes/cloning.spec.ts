@@ -6,16 +6,27 @@ describe('Cloning', () => {
 	describe('shallow cloning', () => {
 		// implement shallowClone operation
 		// which recreates only the top-level of a data structure
-		function shallowClone(data){
+		function shallowClone<T>(data: T): T {
 			//...
-		}
 
+			// const cloned = {};
+			// for (const key in data) {
+			// 	cloned[key] = data[key];
+			// }
+			// return cloned;
+
+			// return Object.assign({}, data);
+
+			return { ...data };
+		}
+// Type inference - implicit 
 		it('can clone simple objects', () => {
 			var src1 = {
 				a: 1,
 				b: 2,
 				c: 3
 			};
+			// apparent type vs actual type
 			var clone1 = shallowClone(src1);
 			expect(src1 == clone1).toEqual(false);
 			expect(src1 === clone1).toEqual(false);
@@ -64,6 +75,7 @@ describe('Cloning', () => {
 		// which recreates all (top and each nested) levels of a data structure
 		function deepClone(data){
 			//...
+			return _.cloneDeep(data);
 		}
 
 		it('can clone nested objects', () => {

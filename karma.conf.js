@@ -62,13 +62,13 @@ module.exports = function(config) {
     // (!) IMPORTANT
     // uncomment the following, not print information about skipped tests:
     //
-    // specReporter: {
+    specReporter: {
     //   suppressErrorSummary: false,  // do not print error summary 
     //   suppressFailed: false,  // do not print information about failed tests 
     //   suppressPassed: true,  // do not print information about passed tests 
-    //   suppressSkipped: true,  // do not print information about skipped tests 
+      suppressSkipped: true,  // do not print information about skipped tests 
     //   showSpecTiming: false  // print the time elapsed for each spec 
-    // },
+    },
 
     // web server port
     port: 9876,
@@ -92,10 +92,10 @@ module.exports = function(config) {
     // start these browsers
     // available browser launchers: https://npmjs.org/browse/keyword/karma-launcher
     browsers: [
-      'Chrome',
+      // 'Chrome',
       'ChromeHeadless',
-      'Firefox',
-      'IE',
+      // 'Firefox',
+      // 'IE',
       // 'PhantomJS'
     ],
 

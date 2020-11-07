@@ -1,3 +1,5 @@
+import { count } from "console";
+
 describe('Closures', function(){
 
 	it('can hold private data - incrementer', function(){
@@ -9,6 +11,19 @@ describe('Closures', function(){
 		// define incrementer function here
 		// try to define function signature
 
+		const incrementer: () => () => number = () => {
+			let current = 0;
+			return () => {
+				return ++current;
+			}
+		}
+
+
+		// USE shorter version
+		// const incrementer = () => () = {}
+
+		// const incrementer: () => () => number = 0;
+		// var inc1: () => number = incrementer();
 		var inc1 = incrementer();
 		expect(inc1()).toEqual(1);
 		expect(inc1()).toEqual(2);
@@ -31,6 +46,22 @@ describe('Closures', function(){
 		// define counter function here
 		// try to define function signature
 
+		// USE this function not arrow?
+		// const counter = () => {
+		// 	let current = 0;
+		// 	this.inc = () => ++current;
+		// 	this.dec = () => --current;
+		// 	return () => this;
+		// }
+
+		const counter = () => {
+			let current = 0;
+			return {
+				inc: () => ++current,
+				dec: () => --current
+			}
+		}
+
 		var c1 = counter();
 		expect(c1.inc()).toEqual(1);
 		expect(c1.inc()).toEqual(2);
@@ -51,6 +82,37 @@ describe('Closures', function(){
 
 		// define finanseStorage function here
 		// try to define function signature
+
+		// const finanseStorage = () => {
+		// 	let balance = 0;
+		// 	return {
+		// 		saveIncome: (income: number) => balance = balance + income,
+		// 		saveOutcome: (outcome: number) => balance = balance - outcome,
+		// 		getBalance: () => Number(balance.toFixed(2))
+		// 	}
+		// }
+
+		// Currying = partial function application
+		const roundTo = (precision: number) => 
+			(value: number) =>
+				Math.round(value * 10**precision) / 10**precision
+
+		const roundTo2 = roundTo(2);
+
+		const finanseStorage = () => {
+			let balance = 0;
+			let incomes = [];
+			let outcomes = [];
+			return {
+			// CQS - command query segregation
+			// CQRS - command query responsibility separation
+			// WRITE
+				saveIncome: (income) => balance = balance + income,
+				saveOutcome: (outcome) => balance = balance - outcome,
+			// READ
+				getBalance: () => roundTo2(balance)
+			}
+		}
 
 		var f1 = finanseStorage();
 		expect(f1.getBalance()).toEqual(0);

@@ -1,7 +1,7 @@
 import API from '../../../data/data';
 import { CompositeSalary } from './composite';
 
-describe('Composite', () => {
+fdescribe('Composite', () => {
   it('should calculate salary = 0 for empty data set', () => {
     const composite = new CompositeSalary()
     expect(composite.getTotalSalary()).toEqual(0)

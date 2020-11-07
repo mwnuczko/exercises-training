@@ -1,5 +1,6 @@
 import { Money } from './shared';
 
+// single source of truth
 export type Project = {
   "id": string;
   "name": string;

@@ -43,5 +43,8 @@
     "typescript": "^3.9.6",
     "webpack": "^2.6.1",
     "webpack-dev-server": "^2.11.2"
+  },
+  "dependencies": {
+    "immer": "^7.0.14"
   }
 }
