@@ -4,7 +4,7 @@ import { CompositeSalary } from './composite';
 fdescribe('Composite', () => {
   it('should calculate salary = 0 for empty data set', () => {
     const composite = new CompositeSalary()
-    expect(composite.getTotalSalary()).toEqual(0)
+    expect(composite.getTotalSalary([])).toEqual(0)
   })
 
   it('should calculate salaries of distinct employees', () => {
@@ -12,13 +12,13 @@ fdescribe('Composite', () => {
 
     const e447819 = API.getEmployeeById(447819)
     // ...
-    expect(composite.getTotalSalary()).toEqual(5064)
+    expect(composite.getTotalSalary([e447819])).toEqual(5064)
 
     const e46767 = API.getEmployeeById(46767)
     // ...
     const e219895 = API.getEmployeeById(219895)
     // ...
-    expect(composite.getTotalSalary()).toEqual(14769)
+    expect(composite.getTotalSalary([e447819, e46767, e219895])).toEqual(14769)
   });
 
   it('should calculate salaries of whole departments', () => {
@@ -26,11 +26,11 @@ fdescribe('Composite', () => {
 
     const managementEmployees = API.getEmployeesByDepartment(1)
     // ...
-    expect(composite.getTotalSalary()).toEqual(1011413)
+    expect(composite.getTotalSalary(managementEmployees)).toEqual(1011413)
     
     const marketingEmployees = API.getEmployeesByDepartment(5)
     // ...
-    expect(composite.getTotalSalary()).toEqual(2086129)
+    expect(composite.getTotalSalary([...managementEmployees, ...marketingEmployees])).toEqual(2086129)
   })
 
   it('should calculate salaries of project teams', () => {
@@ -40,7 +40,11 @@ fdescribe('Composite', () => {
 
     const project = API.getProjectById("6ff48068-a749-42bd-8df2-5176a57be4bc")
     // ...
-    expect(composite.getTotalSalary()).toEqual(86366)
+    if(project) {
+      const employeeIds = [...project.team.map(e => e.id), project.manager];
+      const employees = employeeIds.map(API.getEmployeeById)
+      expect(composite.getTotalSalary(employees)).toEqual(86366)
+    }
   })
 
   it('should calculate salaries of nested composites', () => {
@@ -56,7 +60,7 @@ fdescribe('Composite', () => {
 
     // ... include composite1
     // ... include composite2
-    expect(composite.getTotalSalary()).toEqual(9705)
+    expect(composite.getTotalSalary([composite1, composite2])).toEqual(9705)
   })
 
   it('should calculate salaries of various composite elements', () => {
