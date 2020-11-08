@@ -94,17 +94,17 @@ describe('Object Types', () => {
 
 			expect(john instanceof Object).toEqual(true);
 			expect(paul instanceof Object).toEqual(true);
-			expect(Person instanceof Object).toEqual( /* YOUR ANSWER HERE */ );
-			expect(Object instanceof Object).toEqual( /* YOUR ANSWER HERE */ );
+			expect(Person instanceof Object).toEqual(true); //
+			expect(Object instanceof Object).toEqual(true); //
 
-			expect(john instanceof Person).toEqual( /* YOUR ANSWER HERE */ );
-			expect(paul instanceof Person).toEqual( /* YOUR ANSWER HERE */ );
-			expect(Person instanceof Person).toEqual( /* YOUR ANSWER HERE */ );
+			expect(john instanceof Person).toEqual(true);
+			expect(paul instanceof Person).toEqual(false); //
+			expect(Person instanceof Person).toEqual(false);
 
-			expect(Function instanceof Person).toEqual( /* YOUR ANSWER HERE */ );
-			expect(Function instanceof Object).toEqual( /* YOUR ANSWER HERE */ );
-			expect(Person instanceof Function).toEqual( /* YOUR ANSWER HERE */ );
-			expect(Object instanceof Function).toEqual( /* YOUR ANSWER HERE */ );
+			expect(Function instanceof Person).toEqual(false);
+			expect(Function instanceof Object).toEqual(true);
+			expect(Person instanceof Function).toEqual(true);
+			expect(Object instanceof Function).toEqual(true);
 		});
 	});
 
